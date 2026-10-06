@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "lockout-tagout", "runtimeExecutable": "C:/Users/Latitude 5410/Documents/leadpage/IMO-Signs/imo-safety-signs/.tools/node-v24.21.0-win-x64/node.exe", "runtimeArgs": ["tools/serve.mjs", ".", "8096"], "port": 8096 }
+  ]
+}

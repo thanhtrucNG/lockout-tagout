@@ -1,0 +1,33 @@
+.hero { position: relative; background: var(--navy-dark); color: white; border-top: 3px solid var(--accent); }
+.hero-inner { display: grid; grid-template-columns: minmax(0, 1fr) 290px; gap: var(--space-12); align-items: center; padding-block: 64px; }
+.eyebrow { display: flex; align-items: center; gap: var(--space-3); margin-bottom: var(--space-4); color: #ecb1a7; font-size: var(--text-xs); font-weight: 700; letter-spacing: 2px; }
+.eyebrow::before { content: ''; display: block; width: 28px; height: 2px; background: var(--accent); }
+.hero h1 { color: white; font-size: clamp(32px, 3.5vw, 47px); font-weight: 800; line-height: 1.12; letter-spacing: -1.4px; }
+.hero-title-second { display: block; color: #b6c9d7; }
+.hero-catalogue { padding-left: var(--space-8); border-left: 1px solid #385064; }
+.hero-previews { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-2); }
+.hero-previews .product-image { aspect-ratio: 1; background: white; border-radius: 2px; padding: 6px; }
+.hero-previews .image-fallback { font-size: 10px; }
+.hero-stats { display: flex; gap: var(--space-8); margin-top: var(--space-5); }
+.hero-stats strong { display: block; font-size: 27px; line-height: 1.2; font-weight: 700; }
+.hero-stats span { color: #b6c9d7; font-size: var(--text-xs); }
+@media (max-width: 1023.98px) {
+  .hero-inner { grid-template-columns: minmax(0, 1fr) 220px; gap: var(--space-6); padding-block: 48px 64px; }
+  .hero-catalogue { padding-left: var(--space-5); }
+  .hero-stats { gap: var(--space-5); }
+}
+@media (max-width: 767.98px) {
+  .hero-inner { grid-template-columns: 1fr; padding-block: 40px 48px; gap: 0; }
+  .hero-catalogue { display: none; }
+  .hero h1 { font-size: clamp(30px, 7.6vw, 42px); letter-spacing: -.8px; }
+  .eyebrow { margin-bottom: var(--space-3); }
+}
+.hero-actions { display: flex; flex-wrap: wrap; gap: var(--space-3); margin-top: var(--space-8); }
+.hero-action { min-height: 48px; border-radius: 6px; text-decoration: none; }
+.hero-action-secondary { border-color: rgb(255 255 255 / 55%); background: rgb(4 33 53 / 35%); color: #fff; }
+.hero-action-secondary:hover { border-color: #fff; background: rgb(255 255 255 / 12%); }
+.hero-action:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+@media (max-width: 767.98px) {
+  .hero-actions { margin-top: var(--space-6); }
+  .hero-action { flex: 1 1 100%; }
+}

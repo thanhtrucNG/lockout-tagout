@@ -1,0 +1,3406 @@
+{
+ "HM-153452": {
+  "source": "odoo",
+  "iref": "Brandy.153452"
+ },
+ "LOTO-PAD-014": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KD6"
+ },
+ "LOTO-PAD-015": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KA6"
+ },
+ "LOTO-PAD-016": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KD12"
+ },
+ "LOTO-PAD-017": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KA12"
+ },
+ "LOTO-PAD-018": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KD24"
+ },
+ "LOTO-PAD-019": {
+  "source": "range",
+  "iref": "SDPL-RED-38ST-KA24"
+ },
+ "LOTO-PAD-029": {
+  "source": "range",
+  "iref": "SDPL-YLW-38ST-KD"
+ },
+ "LOTO-PAD-030": {
+  "source": "range",
+  "iref": "SDPL-YLW-38ST-KD6"
+ },
+ "LOTO-PAD-031": {
+  "source": "range",
+  "iref": "SDPL-YLW-38ST-KA6"
+ },
+ "LOTO-PAD-020": {
+  "source": "range",
+  "iref": "SDPL-GRN-38ST-KD"
+ },
+ "LOTO-PAD-021": {
+  "source": "range",
+  "iref": "SDPL-GRN-38ST-KD6"
+ },
+ "LOTO-PAD-022": {
+  "source": "range",
+  "iref": "SDPL-GRN-38ST-KA6"
+ },
+ "LOTO-PAD-026": {
+  "source": "range",
+  "iref": "SDPL-BLU-38ST-KD"
+ },
+ "LOTO-PAD-027": {
+  "source": "range",
+  "iref": "SDPL-BLU-38ST-KD6"
+ },
+ "LOTO-PAD-028": {
+  "source": "range",
+  "iref": "SDPL-BLU-38ST-KA6"
+ },
+ "LOTO-PAD-023": {
+  "source": "range",
+  "iref": "SDPL-ORG-38ST-KD"
+ },
+ "LOTO-PAD-024": {
+  "source": "range",
+  "iref": "SDPL-ORG-38ST-KD6"
+ },
+ "LOTO-PAD-025": {
+  "source": "range",
+  "iref": "SDPL-ORG-38ST-KA6"
+ },
+ "LOTO-PAD-032": {
+  "source": "range",
+  "iref": "SDPL-BLK-38ST-KD"
+ },
+ "LOTO-PAD-033": {
+  "source": "range",
+  "iref": "SDPL-BLK-38ST-KA6"
+ },
+ "LOTO-PAD-034": {
+  "source": "range",
+  "iref": "SDPL-WHT-38ST-KD"
+ },
+ "LOTO-PAD-035": {
+  "source": "range",
+  "iref": "SDPL-WHT-38ST-KA6"
+ },
+ "LOTO-PAD-036": {
+  "source": "range",
+  "iref": "SDPL-BRN-38ST-KD"
+ },
+ "LOTO-PAD-037": {
+  "source": "range",
+  "iref": "SDPL-BRN-38ST-KA6"
+ },
+ "LOTO-PAD-038": {
+  "source": "range",
+  "iref": "SDPL-PRP-38ST-KD"
+ },
+ "LOTO-PAD-039": {
+  "source": "range",
+  "iref": "SDPL-PRP-38ST-KA6"
+ },
+ "V-NPL-KD": {
+  "source": "pdf",
+  "iref": "V-NPL-KD"
+ },
+ "LOTO-PAD-040": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KD6"
+ },
+ "LOTO-PAD-041": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KA6"
+ },
+ "LOTO-PAD-042": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KD12"
+ },
+ "LOTO-PAD-043": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KA12"
+ },
+ "LOTO-PAD-044": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KD24"
+ },
+ "LOTO-PAD-045": {
+  "source": "range",
+  "iref": "SDPL-RED-38PL-KA24"
+ },
+ "LOTO-PAD-055": {
+  "source": "range",
+  "iref": "SDPL-YLW-38PL-KD"
+ },
+ "LOTO-PAD-056": {
+  "source": "range",
+  "iref": "SDPL-YLW-38PL-KD6"
+ },
+ "LOTO-PAD-057": {
+  "source": "range",
+  "iref": "SDPL-YLW-38PL-KA6"
+ },
+ "LOTO-PAD-046": {
+  "source": "range",
+  "iref": "SDPL-GRN-38PL-KD"
+ },
+ "LOTO-PAD-047": {
+  "source": "range",
+  "iref": "SDPL-GRN-38PL-KD6"
+ },
+ "LOTO-PAD-048": {
+  "source": "range",
+  "iref": "SDPL-GRN-38PL-KA6"
+ },
+ "LOTO-PAD-052": {
+  "source": "range",
+  "iref": "SDPL-BLU-38PL-KD"
+ },
+ "LOTO-PAD-053": {
+  "source": "range",
+  "iref": "SDPL-BLU-38PL-KD6"
+ },
+ "LOTO-PAD-054": {
+  "source": "range",
+  "iref": "SDPL-BLU-38PL-KA6"
+ },
+ "LOTO-PAD-049": {
+  "source": "range",
+  "iref": "SDPL-ORG-38PL-KD"
+ },
+ "LOTO-PAD-050": {
+  "source": "range",
+  "iref": "SDPL-ORG-38PL-KD6"
+ },
+ "LOTO-PAD-051": {
+  "source": "range",
+  "iref": "SDPL-ORG-38PL-KA6"
+ },
+ "LOTO-PAD-058": {
+  "source": "range",
+  "iref": "SDPL-BLK-38PL-KD"
+ },
+ "LOTO-PAD-059": {
+  "source": "range",
+  "iref": "SDPL-BLK-38PL-KA6"
+ },
+ "LOTO-PAD-060": {
+  "source": "range",
+  "iref": "SDPL-WHT-38PL-KD"
+ },
+ "LOTO-PAD-061": {
+  "source": "range",
+  "iref": "SDPL-WHT-38PL-KA6"
+ },
+ "LOTO-PAD-062": {
+  "source": "range",
+  "iref": "SDPL-BRN-38PL-KD"
+ },
+ "LOTO-PAD-063": {
+  "source": "range",
+  "iref": "SDPL-BRN-38PL-KA6"
+ },
+ "LOTO-PAD-064": {
+  "source": "range",
+  "iref": "SDPL-PRP-38PL-KD"
+ },
+ "LOTO-PAD-065": {
+  "source": "range",
+  "iref": "SDPL-PRP-38PL-KA6"
+ },
+ "LOTO-PAD-066": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KD"
+ },
+ "LOTO-PAD-067": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KD6"
+ },
+ "LOTO-PAD-068": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KA6"
+ },
+ "LOTO-PAD-069": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KD12"
+ },
+ "LOTO-PAD-070": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KA12"
+ },
+ "LOTO-PAD-071": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KD24"
+ },
+ "LOTO-PAD-072": {
+  "source": "range",
+  "iref": "SDAL-RED-38ST-KA24"
+ },
+ "LOTO-PAD-093": {
+  "source": "range",
+  "iref": "SDAL-RED-76ST-KD"
+ },
+ "LOTO-PAD-082": {
+  "source": "range",
+  "iref": "SDAL-YLW-38ST-KD"
+ },
+ "LOTO-PAD-083": {
+  "source": "range",
+  "iref": "SDAL-YLW-38ST-KD6"
+ },
+ "LOTO-PAD-084": {
+  "source": "range",
+  "iref": "SDAL-YLW-38ST-KA6"
+ },
+ "LOTO-PAD-097": {
+  "source": "range",
+  "iref": "SDAL-YLW-76ST-KD"
+ },
+ "LOTO-PAD-073": {
+  "source": "range",
+  "iref": "SDAL-GRN-38ST-KD"
+ },
+ "LOTO-PAD-074": {
+  "source": "range",
+  "iref": "SDAL-GRN-38ST-KD6"
+ },
+ "LOTO-PAD-075": {
+  "source": "range",
+  "iref": "SDAL-GRN-38ST-KA6"
+ },
+ "LOTO-PAD-094": {
+  "source": "range",
+  "iref": "SDAL-GRN-76ST-KD"
+ },
+ "LOTO-PAD-079": {
+  "source": "range",
+  "iref": "SDAL-BLU-38ST-KD"
+ },
+ "LOTO-PAD-080": {
+  "source": "range",
+  "iref": "SDAL-BLU-38ST-KD6"
+ },
+ "LOTO-PAD-081": {
+  "source": "range",
+  "iref": "SDAL-BLU-38ST-KA6"
+ },
+ "LOTO-PAD-096": {
+  "source": "range",
+  "iref": "SDAL-BLU-76ST-KD"
+ },
+ "LOTO-PAD-076": {
+  "source": "range",
+  "iref": "SDAL-ORG-38ST-KD"
+ },
+ "LOTO-PAD-077": {
+  "source": "range",
+  "iref": "SDAL-ORG-38ST-KD6"
+ },
+ "LOTO-PAD-078": {
+  "source": "range",
+  "iref": "SDAL-ORG-38ST-KA6"
+ },
+ "LOTO-PAD-095": {
+  "source": "range",
+  "iref": "SDAL-ORG-76ST-KD"
+ },
+ "LOTO-PAD-085": {
+  "source": "range",
+  "iref": "SDAL-BLK-38ST-KD"
+ },
+ "LOTO-PAD-086": {
+  "source": "range",
+  "iref": "SDAL-BLK-38ST-KA6"
+ },
+ "LOTO-PAD-098": {
+  "source": "range",
+  "iref": "SDAL-BLK-76ST-KD"
+ },
+ "LOTO-PAD-087": {
+  "source": "range",
+  "iref": "SDAL-WHT-38ST-KD"
+ },
+ "LOTO-PAD-088": {
+  "source": "range",
+  "iref": "SDAL-WHT-38ST-KA6"
+ },
+ "LOTO-PAD-099": {
+  "source": "range",
+  "iref": "SDAL-WHT-76ST-KD"
+ },
+ "LOTO-PAD-089": {
+  "source": "range",
+  "iref": "SDAL-BRN-38ST-KD"
+ },
+ "LOTO-PAD-090": {
+  "source": "range",
+  "iref": "SDAL-BRN-38ST-KA6"
+ },
+ "LOTO-PAD-100": {
+  "source": "range",
+  "iref": "SDAL-BRN-76ST-KD"
+ },
+ "LOTO-PAD-091": {
+  "source": "range",
+  "iref": "SDAL-PRP-38ST-KD"
+ },
+ "LOTO-PAD-092": {
+  "source": "range",
+  "iref": "SDAL-PRP-38ST-KA6"
+ },
+ "LOTO-PAD-101": {
+  "source": "range",
+  "iref": "SDAL-PRP-76ST-KD"
+ },
+ "LOTO-PAD-102": {
+  "source": "range",
+  "iref": "CPPL-RED-25AL-KD"
+ },
+ "LOTO-PAD-103": {
+  "source": "range",
+  "iref": "CPPL-RED-25AL-KA6"
+ },
+ "LOTO-PAD-120": {
+  "source": "range",
+  "iref": "CPPL-RED-200CB-KD"
+ },
+ "LOTO-PAD-121": {
+  "source": "range",
+  "iref": "CPPL-RED-200CB-KA6"
+ },
+ "LOTO-PAD-133": {
+  "source": "range",
+  "iref": "CPPL-RED-400CB-KD"
+ },
+ "LOTO-PAD-134": {
+  "source": "range",
+  "iref": "CPPL-RED-400CB-KA6"
+ },
+ "LOTO-PAD-110": {
+  "source": "range",
+  "iref": "CPPL-YLW-25AL-KD"
+ },
+ "LOTO-PAD-111": {
+  "source": "range",
+  "iref": "CPPL-YLW-25AL-KA6"
+ },
+ "LOTO-PAD-127": {
+  "source": "range",
+  "iref": "CPPL-YLW-200CB-KD"
+ },
+ "LOTO-PAD-128": {
+  "source": "range",
+  "iref": "CPPL-YLW-200CB-KA6"
+ },
+ "LOTO-PAD-140": {
+  "source": "range",
+  "iref": "CPPL-YLW-400CB-KD"
+ },
+ "LOTO-PAD-141": {
+  "source": "range",
+  "iref": "CPPL-YLW-400CB-KA6"
+ },
+ "LOTO-PAD-104": {
+  "source": "range",
+  "iref": "CPPL-GRN-25AL-KD"
+ },
+ "LOTO-PAD-105": {
+  "source": "range",
+  "iref": "CPPL-GRN-25AL-KA6"
+ },
+ "LOTO-PAD-122": {
+  "source": "range",
+  "iref": "CPPL-GRN-200CB-KD"
+ },
+ "LOTO-PAD-123": {
+  "source": "range",
+  "iref": "CPPL-GRN-200CB-KA6"
+ },
+ "LOTO-PAD-135": {
+  "source": "range",
+  "iref": "CPPL-GRN-400CB-KD"
+ },
+ "LOTO-PAD-136": {
+  "source": "range",
+  "iref": "CPPL-GRN-400CB-KA6"
+ },
+ "LOTO-PAD-108": {
+  "source": "range",
+  "iref": "CPPL-BLU-25AL-KD"
+ },
+ "LOTO-PAD-109": {
+  "source": "range",
+  "iref": "CPPL-BLU-25AL-KA6"
+ },
+ "LOTO-PAD-125": {
+  "source": "range",
+  "iref": "CPPL-BLU-200CB-KD"
+ },
+ "LOTO-PAD-126": {
+  "source": "range",
+  "iref": "CPPL-BLU-200CB-KA6"
+ },
+ "LOTO-PAD-138": {
+  "source": "range",
+  "iref": "CPPL-BLU-400CB-KD"
+ },
+ "LOTO-PAD-139": {
+  "source": "range",
+  "iref": "CPPL-BLU-400CB-KA6"
+ },
+ "LOTO-PAD-106": {
+  "source": "range",
+  "iref": "CPPL-ORG-25AL-KD"
+ },
+ "LOTO-PAD-107": {
+  "source": "range",
+  "iref": "CPPL-ORG-25AL-KA6"
+ },
+ "LOTO-PAD-124": {
+  "source": "range",
+  "iref": "CPPL-ORG-200CB-KD"
+ },
+ "LOTO-PAD-137": {
+  "source": "range",
+  "iref": "CPPL-ORG-400CB-KD"
+ },
+ "LOTO-PAD-112": {
+  "source": "range",
+  "iref": "CPPL-BLK-25AL-KD"
+ },
+ "LOTO-PAD-113": {
+  "source": "range",
+  "iref": "CPPL-BLK-25AL-KA6"
+ },
+ "LOTO-PAD-129": {
+  "source": "range",
+  "iref": "CPPL-BLK-200CB-KD"
+ },
+ "LOTO-PAD-142": {
+  "source": "range",
+  "iref": "CPPL-BLK-400CB-KD"
+ },
+ "LOTO-PAD-114": {
+  "source": "range",
+  "iref": "CPPL-WHT-25AL-KD"
+ },
+ "LOTO-PAD-115": {
+  "source": "range",
+  "iref": "CPPL-WHT-25AL-KA6"
+ },
+ "LOTO-PAD-130": {
+  "source": "range",
+  "iref": "CPPL-WHT-200CB-KD"
+ },
+ "LOTO-PAD-143": {
+  "source": "range",
+  "iref": "CPPL-WHT-400CB-KD"
+ },
+ "LOTO-PAD-116": {
+  "source": "range",
+  "iref": "CPPL-BRN-25AL-KD"
+ },
+ "LOTO-PAD-117": {
+  "source": "range",
+  "iref": "CPPL-BRN-25AL-KA6"
+ },
+ "LOTO-PAD-131": {
+  "source": "range",
+  "iref": "CPPL-BRN-200CB-KD"
+ },
+ "LOTO-PAD-144": {
+  "source": "range",
+  "iref": "CPPL-BRN-400CB-KD"
+ },
+ "LOTO-PAD-118": {
+  "source": "range",
+  "iref": "CPPL-PRP-25AL-KD"
+ },
+ "LOTO-PAD-119": {
+  "source": "range",
+  "iref": "CPPL-PRP-25AL-KA6"
+ },
+ "LOTO-PAD-132": {
+  "source": "range",
+  "iref": "CPPL-PRP-200CB-KD"
+ },
+ "LOTO-PAD-145": {
+  "source": "range",
+  "iref": "CPPL-PRP-400CB-KD"
+ },
+ "LOTO-PAD-146": {
+  "source": "range",
+  "iref": "CPAL-RED-25AL-KD"
+ },
+ "LOTO-PAD-147": {
+  "source": "range",
+  "iref": "CPAL-RED-25AL-KA6"
+ },
+ "LOTO-PAD-154": {
+  "source": "range",
+  "iref": "CPAL-YLW-25AL-KD"
+ },
+ "LOTO-PAD-155": {
+  "source": "range",
+  "iref": "CPAL-YLW-25AL-KA6"
+ },
+ "LOTO-PAD-148": {
+  "source": "range",
+  "iref": "CPAL-GRN-25AL-KD"
+ },
+ "LOTO-PAD-149": {
+  "source": "range",
+  "iref": "CPAL-GRN-25AL-KA6"
+ },
+ "LOTO-PAD-152": {
+  "source": "range",
+  "iref": "CPAL-BLU-25AL-KD"
+ },
+ "LOTO-PAD-153": {
+  "source": "range",
+  "iref": "CPAL-BLU-25AL-KA6"
+ },
+ "LOTO-PAD-150": {
+  "source": "range",
+  "iref": "CPAL-ORG-25AL-KD"
+ },
+ "LOTO-PAD-151": {
+  "source": "range",
+  "iref": "CPAL-ORG-25AL-KA6"
+ },
+ "LOTO-PAD-156": {
+  "source": "range",
+  "iref": "CPAL-BLK-25AL-KD"
+ },
+ "LOTO-PAD-157": {
+  "source": "range",
+  "iref": "CPAL-BLK-25AL-KA6"
+ },
+ "LOTO-PAD-158": {
+  "source": "range",
+  "iref": "CPAL-WHT-25AL-KD"
+ },
+ "LOTO-PAD-159": {
+  "source": "range",
+  "iref": "CPAL-WHT-25AL-KA6"
+ },
+ "LOTO-PAD-160": {
+  "source": "range",
+  "iref": "CPAL-BRN-25AL-KD"
+ },
+ "LOTO-PAD-161": {
+  "source": "range",
+  "iref": "CPAL-BRN-25AL-KA6"
+ },
+ "LOTO-PAD-162": {
+  "source": "range",
+  "iref": "CPAL-PRP-25AL-KD"
+ },
+ "LOTO-PAD-163": {
+  "source": "range",
+  "iref": "CPAL-PRP-25AL-KA6"
+ },
+ "GS PJLS-P KD": {
+  "source": "odoo",
+  "iref": "GS PJLS-P KD"
+ },
+ "GS PJLS-P KA": {
+  "source": "odoo",
+  "iref": "GS PJLS-P KA"
+ },
+ "GS PJLS-KD": {
+  "source": "odoo",
+  "iref": "GS PJLS-KD"
+ },
+ "GS PJLS-KA": {
+  "source": "odoo",
+  "iref": "GS PJLS-KA"
+ },
+ "V-PLSP-KD": {
+  "source": "pdf",
+  "iref": "V-PLSP-KD"
+ },
+ "LSP-KD+M": {
+  "source": "pdf",
+  "iref": "LSP-KD+M"
+ },
+ "GS PJRS-P KD": {
+  "source": "odoo",
+  "iref": "GS PJRS-P KD"
+ },
+ "GS PJRS-KD": {
+  "source": "odoo",
+  "iref": "GS PJRS-KD"
+ },
+ "V-PRS-3A": {
+  "source": "pdf",
+  "iref": "V-PRS-3A"
+ },
+ "GS SLPC-1F": {
+  "source": "odoo",
+  "iref": "GS SLPC-1F"
+ },
+ "GS SLPC-2F": {
+  "source": "odoo",
+  "iref": "GS SLPC-2F"
+ },
+ "GS SLPC-3F": {
+  "source": "odoo",
+  "iref": "GS SLPC-3F"
+ },
+ "GS SLPC-4F": {
+  "source": "odoo",
+  "iref": "GS SLPC-4F"
+ },
+ "GS SLPC-5F": {
+  "source": "odoo",
+  "iref": "GS SLPC-5F"
+ },
+ "LOTO-PAD-011": {
+  "source": "range",
+  "iref": "121449"
+ },
+ "LOTO-PAD-013": {
+  "source": "range",
+  "iref": "LID-3"
+ },
+ "LOTO-PAD-012": {
+  "source": "range",
+  "iref": "121448"
+ },
+ "LOTO-PAD-001": {
+  "source": "range",
+  "iref": "50280"
+ },
+ "LOTO-PAD-008": {
+  "source": "range",
+  "iref": "50289"
+ },
+ "LOTO-PAD-007": {
+  "source": "range",
+  "iref": "51379"
+ },
+ "LOTO-PAD-004": {
+  "source": "range",
+  "iref": "150556"
+ },
+ "LOTO-PAD-005": {
+  "source": "range",
+  "iref": "150555"
+ },
+ "LOTO-PAD-003": {
+  "source": "range",
+  "iref": "50283"
+ },
+ "LOTO-PAD-010": {
+  "source": "range",
+  "iref": "50293"
+ },
+ "LOTO-PAD-006": {
+  "source": "range",
+  "iref": "65508"
+ },
+ "LOTO-PAD-002": {
+  "source": "range",
+  "iref": "50281"
+ },
+ "LOTO-PAD-009": {
+  "source": "range",
+  "iref": "50292"
+ },
+ "LOTO-GRP-004": {
+  "source": "range",
+  "iref": "151736"
+ },
+ "LOTO-GRP-001": {
+  "source": "range",
+  "iref": "152731"
+ },
+ "LOTO-GRP-002": {
+  "source": "range",
+  "iref": "152730"
+ },
+ "LOTO-GRP-003": {
+  "source": "range",
+  "iref": "152732"
+ },
+ "LOTO-GRP-005": {
+  "source": "range",
+  "iref": "149173"
+ },
+ "LOTO-GRP-006": {
+  "source": "range",
+  "iref": "153674"
+ },
+ "LOTO-GRP-007": {
+  "source": "range",
+  "iref": "153675"
+ },
+ "LOTO-GRP-008": {
+  "source": "range",
+  "iref": "152189"
+ },
+ "LOTO-GRP-009": {
+  "source": "range",
+  "iref": "GLB26"
+ },
+ "GS GLB-S26": {
+  "source": "odoo",
+  "iref": "GS GLB-S26"
+ },
+ "GS GLB 13SS": {
+  "source": "odoo",
+  "iref": "GS GLB 13SS"
+ },
+ "GS GLB 17-CS": {
+  "source": "odoo",
+  "iref": "GS GLB 17-CS"
+ },
+ "GS GLK-1": {
+  "source": "odoo",
+  "iref": "GS GLK-1"
+ },
+ "GS GLK-2": {
+  "source": "odoo",
+  "iref": "GS GLK-2"
+ },
+ "GS GLK-3": {
+  "source": "odoo",
+  "iref": "GS GLK-3"
+ },
+ "LOTO-GRP-018": {
+  "source": "range",
+  "iref": "105715"
+ },
+ "LOTO-GRP-017": {
+  "source": "range",
+  "iref": "105714"
+ },
+ "LOTO-GRP-014": {
+  "source": "range",
+  "iref": "51171"
+ },
+ "LOTO-GRP-011": {
+  "source": "range",
+  "iref": "65699"
+ },
+ "LOTO-GRP-012": {
+  "source": "range",
+  "iref": "65040"
+ },
+ "LOTO-GRP-019": {
+  "source": "range",
+  "iref": "LG252M"
+ },
+ "LOTO-GRP-013": {
+  "source": "range",
+  "iref": "65672"
+ },
+ "LOTO-GRP-010": {
+  "source": "range",
+  "iref": "45190"
+ },
+ "V-GB13": {
+  "source": "pdf",
+  "iref": "V-GB13"
+ },
+ "LOTO-GRP-015": {
+  "source": "range",
+  "iref": "175461"
+ },
+ "LOTO-GRP-016": {
+  "source": "range",
+  "iref": "175462"
+ },
+ "LOTO-GRP-020": {
+  "source": "range",
+  "iref": "150505"
+ },
+ "LOTO-GRP-021": {
+  "source": "range",
+  "iref": "151761"
+ },
+ "GS EHASP - 01": {
+  "source": "odoo",
+  "iref": "GS EHASP - 01"
+ },
+ "GS EHASP - 02": {
+  "source": "odoo",
+  "iref": "GS EHASP - 02"
+ },
+ "GS EHASP - 03": {
+  "source": "odoo",
+  "iref": "GS EHASP - 03"
+ },
+ "GS EHASP - 04": {
+  "source": "odoo",
+  "iref": "GS EHASP - 04"
+ },
+ "GS D-HASP-S3": {
+  "source": "odoo",
+  "iref": "GS D-HASP-S3"
+ },
+ "GS D-HASP-S6": {
+  "source": "odoo",
+  "iref": "GS D-HASP-S6"
+ },
+ "VH-E25": {
+  "source": "pdf",
+  "iref": "VH-E25"
+ },
+ "VH-E39": {
+  "source": "pdf",
+  "iref": "VH-E39"
+ },
+ "HM-764101": {
+  "source": "odoo",
+  "iref": "SOFAMEL.764101"
+ },
+ "HM-764102": {
+  "source": "odoo",
+  "iref": "SOFAMEL.764102"
+ },
+ "HM-63103": {
+  "source": "odoo",
+  "iref": "SOFAMEL.63103"
+ },
+ "HM-764100": {
+  "source": "odoo",
+  "iref": "SOFAMEL.764100"
+ },
+ "HM-764103": {
+  "source": "odoo",
+  "iref": "SOFAMEL.764103"
+ },
+ "HM-763104": {
+  "source": "odoo",
+  "iref": "SOFAMEL.763104"
+ },
+ "VH-N33": {
+  "source": "pdf",
+  "iref": "VH-N33"
+ },
+ "VH-N36": {
+  "source": "pdf",
+  "iref": "VH-N36"
+ },
+ "VH-SSH": {
+  "source": "pdf",
+  "iref": "VH-SSH"
+ },
+ "VH-39": {
+  "source": "pdf",
+  "iref": "VH-39"
+ },
+ "VH-25": {
+  "source": "pdf",
+  "iref": "VH-25"
+ },
+ "LOTO-GRP-033": {
+  "source": "range",
+  "iref": "236919"
+ },
+ "LOTO-GRP-024": {
+  "source": "range",
+  "iref": "871239"
+ },
+ "LOTO-GRP-034": {
+  "source": "range",
+  "iref": "99668"
+ },
+ "LOTO-GRP-035": {
+  "source": "range",
+  "iref": "LH220A-RD"
+ },
+ "LOTO-GRP-036": {
+  "source": "range",
+  "iref": "87693"
+ },
+ "LOTO-GRP-022": {
+  "source": "range",
+  "iref": "105718"
+ },
+ "LOTO-GRP-023": {
+  "source": "range",
+  "iref": "105719"
+ },
+ "LOTO-GRP-025": {
+  "source": "range",
+  "iref": "133161"
+ },
+ "LOTO-GRP-026": {
+  "source": "range",
+  "iref": "65375"
+ },
+ "LOTO-GRP-027": {
+  "source": "range",
+  "iref": "133162"
+ },
+ "LOTO-GRP-028": {
+  "source": "range",
+  "iref": "65376"
+ },
+ "LOTO-GRP-029": {
+  "source": "range",
+  "iref": "T218"
+ },
+ "LOTO-GRP-030": {
+  "source": "range",
+  "iref": "T220"
+ },
+ "LOTO-GRP-031": {
+  "source": "range",
+  "iref": "105720"
+ },
+ "LOTO-GRP-032": {
+  "source": "range",
+  "iref": "105721"
+ },
+ "LOTO-GRP-039": {
+  "source": "range",
+  "iref": "65960"
+ },
+ "LOTO-GRP-045": {
+  "source": "range",
+  "iref": "65970"
+ },
+ "LOTO-GRP-037": {
+  "source": "range",
+  "iref": "39480"
+ },
+ "LOTO-GRP-038": {
+  "source": "range",
+  "iref": "39481"
+ },
+ "LOTO-GRP-042": {
+  "source": "range",
+  "iref": "65963"
+ },
+ "LOTO-GRP-048": {
+  "source": "range",
+  "iref": "65973"
+ },
+ "LOTO-GRP-041": {
+  "source": "range",
+  "iref": "65962"
+ },
+ "LOTO-GRP-047": {
+  "source": "range",
+  "iref": "65972"
+ },
+ "LOTO-GRP-040": {
+  "source": "range",
+  "iref": "65961"
+ },
+ "LOTO-GRP-046": {
+  "source": "range",
+  "iref": "65971"
+ },
+ "LOTO-GRP-043": {
+  "source": "range",
+  "iref": "65964"
+ },
+ "LOTO-GRP-049": {
+  "source": "range",
+  "iref": "65974"
+ },
+ "LOTO-GRP-044": {
+  "source": "range",
+  "iref": "65967"
+ },
+ "LOTO-GRP-050": {
+  "source": "range",
+  "iref": "65975"
+ },
+ "VH-AL10": {
+  "source": "pdf",
+  "iref": "VH-AL10"
+ },
+ "V-ELK": {
+  "source": "pdf",
+  "iref": "V-ELK"
+ },
+ "V-P2-R": {
+  "source": "pdf",
+  "iref": "V-P2-R"
+ },
+ "V-VLK": {
+  "source": "pdf",
+  "iref": "V-VLK"
+ },
+ "LOTO-KIT-001": {
+  "source": "range",
+  "iref": "153672"
+ },
+ "LOTO-KIT-003": {
+  "source": "range",
+  "iref": "153676"
+ },
+ "LOTO-KIT-004": {
+  "source": "range",
+  "iref": "153668"
+ },
+ "LOTO-KIT-002": {
+  "source": "range",
+  "iref": "153673"
+ },
+ "LOTO-KIT-006": {
+  "source": "range",
+  "iref": "153680"
+ },
+ "LOTO-KIT-005": {
+  "source": "range",
+  "iref": "153679"
+ },
+ "LOTO-KIT-010": {
+  "source": "range",
+  "iref": "153682"
+ },
+ "LOTO-KIT-009": {
+  "source": "range",
+  "iref": "153681"
+ },
+ "LOTO-KIT-012": {
+  "source": "range",
+  "iref": "153684"
+ },
+ "LOTO-KIT-011": {
+  "source": "range",
+  "iref": "153683"
+ },
+ "LOTO-KIT-008": {
+  "source": "range",
+  "iref": "153688"
+ },
+ "LOTO-KIT-007": {
+  "source": "range",
+  "iref": "153687"
+ },
+ "LOTO-KIT-014": {
+  "source": "range",
+  "iref": "153686"
+ },
+ "LOTO-KIT-013": {
+  "source": "range",
+  "iref": "153685"
+ },
+ "LOTO-KIT-016": {
+  "source": "range",
+  "iref": "99162"
+ },
+ "LOTO-KIT-025": {
+  "source": "range",
+  "iref": "50979"
+ },
+ "LOTO-KIT-024": {
+  "source": "range",
+  "iref": "87943"
+ },
+ "LOTO-KIT-023": {
+  "source": "range",
+  "iref": "51172"
+ },
+ "LOTO-KIT-015": {
+  "source": "range",
+  "iref": "51173"
+ },
+ "LOTO-KIT-026": {
+  "source": "range",
+  "iref": "65780"
+ },
+ "LOTO-KIT-017": {
+  "source": "range",
+  "iref": "65290"
+ },
+ "LOTO-KIT-029": {
+  "source": "range",
+  "iref": "105906"
+ },
+ "LOTO-KIT-028": {
+  "source": "range",
+  "iref": "105905"
+ },
+ "GS H-T-C": {
+  "source": "odoo",
+  "iref": "GS H-T-C"
+ },
+ "V-LSS16": {
+  "source": "pdf",
+  "iref": "V-LSS16"
+ },
+ "GS SLC-5K": {
+  "source": "odoo",
+  "iref": "GS SLC-5K"
+ },
+ "GS SLC-5L": {
+  "source": "odoo",
+  "iref": "GS SLC-5L"
+ },
+ "LOTO-KIT-027": {
+  "source": "range",
+  "iref": "LC254M"
+ },
+ "LOTO-KIT-022": {
+  "source": "range",
+  "iref": "LC977A"
+ },
+ "LOTO-KIT-020": {
+  "source": "range",
+  "iref": "LC584E"
+ },
+ "LOTO-KIT-031": {
+  "source": "range",
+  "iref": "95700"
+ },
+ "LOTO-KIT-030": {
+  "source": "range",
+  "iref": "99021"
+ },
+ "GS PS-6": {
+  "source": "odoo",
+  "iref": "GS PS-6"
+ },
+ "GS PS-12": {
+  "source": "odoo",
+  "iref": "GS PS-12"
+ },
+ "GS PS-18": {
+  "source": "odoo",
+  "iref": "GS PS-18"
+ },
+ "GS LS-6210": {
+  "source": "odoo",
+  "iref": "GS LS-6210"
+ },
+ "GS LS-6220": {
+  "source": "odoo",
+  "iref": "GS LS-6220"
+ },
+ "GS LS-12210": {
+  "source": "odoo",
+  "iref": "GS LS-12210"
+ },
+ "GS LS-24120": {
+  "source": "odoo",
+  "iref": "GS LS-24120"
+ },
+ "GS LS-24850": {
+  "source": "odoo",
+  "iref": "GS LS-24850"
+ },
+ "GS LS-36230": {
+  "source": "odoo",
+  "iref": "GS LS-36230"
+ },
+ "LOTO-KIT-032": {
+  "source": "range",
+  "iref": "50991"
+ },
+ "LOTO-KIT-034": {
+  "source": "range",
+  "iref": "50992"
+ },
+ "LOTO-KIT-033": {
+  "source": "range",
+  "iref": "121506"
+ },
+ "LOTO-KIT-018": {
+  "source": "range",
+  "iref": "105942"
+ },
+ "LOTO-KIT-048": {
+  "source": "range",
+  "iref": "LR060E"
+ },
+ "LOTO-KIT-049": {
+  "source": "range",
+  "iref": "LR360E"
+ },
+ "HM-765100": {
+  "source": "odoo",
+  "iref": "SOFAMEL.765100"
+ },
+ "HM-765101": {
+  "source": "odoo",
+  "iref": "SOFAMEL.765101"
+ },
+ "GS-LTS 6": {
+  "source": "odoo",
+  "iref": "GS-LTS 6"
+ },
+ "GS-LTS 9": {
+  "source": "odoo",
+  "iref": "GS-LTS 9"
+ },
+ "GS-LTS 10": {
+  "source": "odoo",
+  "iref": "GS-LTS 10"
+ },
+ "GS-LTS 6+GLB": {
+  "source": "odoo",
+  "iref": "GS-LTS 6+GLB"
+ },
+ "GS-LTS 6C": {
+  "source": "odoo",
+  "iref": "GS-LTS 6C"
+ },
+ "GS-LTS-9C": {
+  "source": "odoo",
+  "iref": "GS-LTS-9C"
+ },
+ "GS-LTS 10C": {
+  "source": "odoo",
+  "iref": "GS-LTS 10C"
+ },
+ "HM-4400-L": {
+  "source": "odoo",
+  "iref": "4400‐L"
+ },
+ "V-LSP-B": {
+  "source": "pdf",
+  "iref": "V-LSP-B"
+ },
+ "PVC-V-LS10": {
+  "source": "pdf",
+  "iref": "PVC-V-LS10"
+ },
+ "PVC-V-LS20": {
+  "source": "pdf",
+  "iref": "PVC-V-LS20"
+ },
+ "LOTO-KIT-056": {
+  "source": "range",
+  "iref": "3013"
+ },
+ "LOTO-KIT-021": {
+  "source": "range",
+  "iref": "170397"
+ },
+ "LOTO-KIT-044": {
+  "source": "range",
+  "iref": "3070"
+ },
+ "LOTO-KIT-019": {
+  "source": "range",
+  "iref": "105932"
+ },
+ "LOTO-KIT-036": {
+  "source": "range",
+  "iref": "50994"
+ },
+ "LOTO-KIT-035": {
+  "source": "range",
+  "iref": "50997"
+ },
+ "LOTO-KIT-037": {
+  "source": "range",
+  "iref": "50993"
+ },
+ "LOTO-KIT-038": {
+  "source": "range",
+  "iref": "50996"
+ },
+ "LOTO-KIT-040": {
+  "source": "range",
+  "iref": "50995"
+ },
+ "LOTO-KIT-039": {
+  "source": "range",
+  "iref": "121509"
+ },
+ "LOTO-KIT-041": {
+  "source": "range",
+  "iref": "TH2"
+ },
+ "LOTO-KIT-042": {
+  "source": "range",
+  "iref": "TH2-H"
+ },
+ "LOTO-KIT-043": {
+  "source": "range",
+  "iref": "TC8"
+ },
+ "LOTO-KIT-055": {
+  "source": "range",
+  "iref": "153678"
+ },
+ "LOTO-KIT-054": {
+  "source": "range",
+  "iref": "153677"
+ },
+ "LOTO-KIT-052": {
+  "source": "range",
+  "iref": "148862"
+ },
+ "LOTO-KIT-053": {
+  "source": "range",
+  "iref": "148861"
+ },
+ "LOTO-KIT-050": {
+  "source": "range",
+  "iref": "148866"
+ },
+ "LOTO-KIT-051": {
+  "source": "range",
+  "iref": "148865"
+ },
+ "LOTO-KIT-045": {
+  "source": "range",
+  "iref": "65241"
+ },
+ "LOTO-KIT-046": {
+  "source": "range",
+  "iref": "LR008E"
+ },
+ "LOTO-KIT-047": {
+  "source": "range",
+  "iref": "LR018E"
+ },
+ "GS EMCL-M55": {
+  "source": "odoo",
+  "iref": "GS EMCL-M55"
+ },
+ "GS MCL-M55": {
+  "source": "odoo",
+  "iref": "GS MCL-M55"
+ },
+ "GS MCL-M55-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-M55-2M"
+ },
+ "GS MCL-01": {
+  "source": "odoo",
+  "iref": "GS MCL-01"
+ },
+ "GS MCL-01-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-01-2M"
+ },
+ "GS MCL-01P-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-01P-2M"
+ },
+ "GS MCL-01H": {
+  "source": "odoo",
+  "iref": "GS MCL-01H"
+ },
+ "GS MCL-01H-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-01H-2M"
+ },
+ "GS MCL-02D": {
+  "source": "odoo",
+  "iref": "GS MCL-02D"
+ },
+ "GS MCL-02M": {
+  "source": "odoo",
+  "iref": "GS MCL-02M"
+ },
+ "GS MCL-03": {
+  "source": "odoo",
+  "iref": "GS MCL-03"
+ },
+ "GS MCL-04-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-04-2M"
+ },
+ "GS MCL-05-2M": {
+  "source": "odoo",
+  "iref": "GS MCL-05-2M"
+ },
+ "V-CL6": {
+  "source": "pdf",
+  "iref": "V-CL6"
+ },
+ "V-UML": {
+  "source": "pdf",
+  "iref": "V-UML"
+ },
+ "LOTO-CAB-010": {
+  "source": "range",
+  "iref": "50944"
+ },
+ "LOTO-CAB-008": {
+  "source": "range",
+  "iref": "50941"
+ },
+ "LOTO-CAB-009": {
+  "source": "range",
+  "iref": "50943"
+ },
+ "LOTO-CAB-012": {
+  "source": "range",
+  "iref": "170377"
+ },
+ "LOTO-CAB-011": {
+  "source": "range",
+  "iref": "170378"
+ },
+ "LOTO-CAB-002": {
+  "source": "range",
+  "iref": "51442"
+ },
+ "LOTO-CAB-001": {
+  "source": "range",
+  "iref": "50940"
+ },
+ "LOTO-CAB-003": {
+  "source": "range",
+  "iref": "65318"
+ },
+ "LOTO-CAB-005": {
+  "source": "range",
+  "iref": "45192"
+ },
+ "LOTO-CAB-004": {
+  "source": "range",
+  "iref": "45191"
+ },
+ "LOTO-CAB-017": {
+  "source": "range",
+  "iref": "CABLO"
+ },
+ "LOTO-CAB-018": {
+  "source": "range",
+  "iref": "CABLO-10"
+ },
+ "LOTO-CAB-030": {
+  "source": "range",
+  "iref": "122247"
+ },
+ "LOTO-CAB-024": {
+  "source": "range",
+  "iref": "122244"
+ },
+ "LOTO-CAB-027": {
+  "source": "range",
+  "iref": "122253"
+ },
+ "LOTO-CAB-021": {
+  "source": "range",
+  "iref": "122250"
+ },
+ "LOTO-CAB-031": {
+  "source": "range",
+  "iref": "122248"
+ },
+ "LOTO-CAB-025": {
+  "source": "range",
+  "iref": "122245"
+ },
+ "LOTO-CAB-028": {
+  "source": "range",
+  "iref": "122254"
+ },
+ "LOTO-CAB-022": {
+  "source": "range",
+  "iref": "152268"
+ },
+ "LOTO-CAB-026": {
+  "source": "range",
+  "iref": "122246"
+ },
+ "LOTO-CAB-029": {
+  "source": "range",
+  "iref": "122255"
+ },
+ "LOTO-CAB-023": {
+  "source": "range",
+  "iref": "122252"
+ },
+ "LOTO-CAB-013": {
+  "source": "range",
+  "iref": "170379"
+ },
+ "LOTO-CAB-014": {
+  "source": "range",
+  "iref": "170409"
+ },
+ "LOTO-CAB-019": {
+  "source": "range",
+  "iref": "CABLE"
+ },
+ "LOTO-CAB-020": {
+  "source": "range",
+  "iref": "CABLE-10FT"
+ },
+ "LOTO-CAB-015": {
+  "source": "range",
+  "iref": "122263"
+ },
+ "LOTO-CAB-016": {
+  "source": "range",
+  "iref": "170408"
+ },
+ "LOTO-CAB-006": {
+  "source": "range",
+  "iref": "65319"
+ },
+ "LOTO-CAB-007": {
+  "source": "range",
+  "iref": "65320"
+ },
+ "LOTO-VLV-046": {
+  "source": "range",
+  "iref": "65590"
+ },
+ "LOTO-VLV-050": {
+  "source": "range",
+  "iref": "65591"
+ },
+ "LOTO-VLV-054": {
+  "source": "range",
+  "iref": "65592"
+ },
+ "LOTO-VLV-058": {
+  "source": "range",
+  "iref": "65593"
+ },
+ "LOTO-VLV-062": {
+  "source": "range",
+  "iref": "65594"
+ },
+ "LOTO-VLV-047": {
+  "source": "range",
+  "iref": "65595"
+ },
+ "LOTO-VLV-051": {
+  "source": "range",
+  "iref": "65596"
+ },
+ "LOTO-VLV-055": {
+  "source": "range",
+  "iref": "65597"
+ },
+ "LOTO-VLV-059": {
+  "source": "range",
+  "iref": "65598"
+ },
+ "LOTO-VLV-063": {
+  "source": "range",
+  "iref": "65599"
+ },
+ "LOTO-VLV-048": {
+  "source": "range",
+  "iref": "65585"
+ },
+ "LOTO-VLV-052": {
+  "source": "range",
+  "iref": "65586"
+ },
+ "LOTO-VLV-056": {
+  "source": "range",
+  "iref": "65587"
+ },
+ "LOTO-VLV-060": {
+  "source": "range",
+  "iref": "65588"
+ },
+ "LOTO-VLV-064": {
+  "source": "range",
+  "iref": "65589"
+ },
+ "LOTO-VLV-049": {
+  "source": "range",
+  "iref": "145581"
+ },
+ "LOTO-VLV-053": {
+  "source": "range",
+  "iref": "145582"
+ },
+ "LOTO-VLV-057": {
+  "source": "range",
+  "iref": "145583"
+ },
+ "LOTO-VLV-061": {
+  "source": "range",
+  "iref": "145584"
+ },
+ "LOTO-VLV-065": {
+  "source": "range",
+  "iref": "145585"
+ },
+ "V-02-GVL": {
+  "source": "pdf",
+  "iref": "V-02-GVL"
+ },
+ "GS GVL-04": {
+  "source": "odoo",
+  "iref": "GS GVL-04"
+ },
+ "GS GVL-06": {
+  "source": "odoo",
+  "iref": "GS GVL-06"
+ },
+ "GS GVL-08": {
+  "source": "odoo",
+  "iref": "GS GVL-08"
+ },
+ "GS GVL-10": {
+  "source": "odoo",
+  "iref": "GS GVL-10"
+ },
+ "V-AGV": {
+  "source": "pdf",
+  "iref": "V-AGV"
+ },
+ "LOTO-VLV-001": {
+  "source": "range",
+  "iref": "148648"
+ },
+ "LOTO-VLV-002": {
+  "source": "range",
+  "iref": "148647"
+ },
+ "LOTO-VLV-003": {
+  "source": "range",
+  "iref": "148646"
+ },
+ "LOTO-VLV-004": {
+  "source": "range",
+  "iref": "151748"
+ },
+ "LOTO-VLV-005": {
+  "source": "range",
+  "iref": "151749"
+ },
+ "LOTO-VLV-006": {
+  "source": "range",
+  "iref": "65666"
+ },
+ "LOTO-VLV-007": {
+  "source": "range",
+  "iref": "65692"
+ },
+ "LOTO-VLV-008": {
+  "source": "range",
+  "iref": "65669"
+ },
+ "LOTO-VLV-009": {
+  "source": "range",
+  "iref": "65693"
+ },
+ "GS BVL-L": {
+  "source": "odoo",
+  "iref": "GS BVL-L"
+ },
+ "GS BVL-01": {
+  "source": "odoo",
+  "iref": "GS BVL-01"
+ },
+ "GS BVL-01S": {
+  "source": "odoo",
+  "iref": "GS BVL-01S"
+ },
+ "V-BV 02": {
+  "source": "pdf",
+  "iref": "V-BV 02"
+ },
+ "LOTO-VLV-028": {
+  "source": "range",
+  "iref": "BS07A-RD"
+ },
+ "LOTO-VLV-032": {
+  "source": "range",
+  "iref": "BS08A-RD"
+ },
+ "LOTO-VLV-029": {
+  "source": "range",
+  "iref": "BS07A-YW"
+ },
+ "LOTO-VLV-033": {
+  "source": "range",
+  "iref": "BS08A-YW"
+ },
+ "LOTO-VLV-031": {
+  "source": "range",
+  "iref": "BS07A-GN"
+ },
+ "LOTO-VLV-035": {
+  "source": "range",
+  "iref": "BS08A-GN"
+ },
+ "LOTO-VLV-030": {
+  "source": "range",
+  "iref": "BS07A-BU"
+ },
+ "LOTO-VLV-034": {
+  "source": "range",
+  "iref": "BS08A-BU"
+ },
+ "LOTO-VLV-024": {
+  "source": "range",
+  "iref": "121540"
+ },
+ "LOTO-VLV-025": {
+  "source": "range",
+  "iref": "121541"
+ },
+ "GS VL-ARM-L": {
+  "source": "odoo",
+  "iref": "GS VL-ARM-L"
+ },
+ "GS VL-ARM-S": {
+  "source": "odoo",
+  "iref": "GS VL-ARM-S"
+ },
+ "LOTO-VLV-026": {
+  "source": "range",
+  "iref": "175644"
+ },
+ "LOTO-VLV-027": {
+  "source": "range",
+  "iref": "178769"
+ },
+ "V-UVL": {
+  "source": "pdf",
+  "iref": "V-UVL"
+ },
+ "LOTO-VLV-013": {
+  "source": "range",
+  "iref": "51388"
+ },
+ "LOTO-VLV-012": {
+  "source": "range",
+  "iref": "51392"
+ },
+ "LOTO-VLV-011": {
+  "source": "range",
+  "iref": "51390"
+ },
+ "LOTO-VLV-010": {
+  "source": "range",
+  "iref": "51394"
+ },
+ "LOTO-VLV-015": {
+  "source": "range",
+  "iref": "50899"
+ },
+ "LOTO-VLV-014": {
+  "source": "range",
+  "iref": "50924"
+ },
+ "LOTO-VLV-017": {
+  "source": "range",
+  "iref": "65403"
+ },
+ "LOTO-VLV-016": {
+  "source": "range",
+  "iref": "65402"
+ },
+ "LOTO-VLV-019": {
+  "source": "range",
+  "iref": "50932"
+ },
+ "LOTO-VLV-018": {
+  "source": "range",
+  "iref": "51395"
+ },
+ "LOTO-VLV-020": {
+  "source": "range",
+  "iref": "50947"
+ },
+ "LOTO-VLV-021": {
+  "source": "range",
+  "iref": "50950"
+ },
+ "LOTO-VLV-022": {
+  "source": "range",
+  "iref": "50953"
+ },
+ "LOTO-VLV-023": {
+  "source": "range",
+  "iref": "50956"
+ },
+ "LOTO-VLV-036": {
+  "source": "range",
+  "iref": "149228"
+ },
+ "LOTO-VLV-037": {
+  "source": "range",
+  "iref": "149229"
+ },
+ "LOTO-VLV-038": {
+  "source": "range",
+  "iref": "149230"
+ },
+ "LOTO-VLV-039": {
+  "source": "range",
+  "iref": "113231"
+ },
+ "LOTO-VLV-040": {
+  "source": "range",
+  "iref": "113232"
+ },
+ "LOTO-VLV-041": {
+  "source": "range",
+  "iref": "113233"
+ },
+ "LOTO-VLV-042": {
+  "source": "range",
+  "iref": "113234"
+ },
+ "GS BFVL": {
+  "source": "odoo",
+  "iref": "GS BFVL"
+ },
+ "GS BFVL-U": {
+  "source": "odoo",
+  "iref": "GS BFVL-U"
+ },
+ "LOTO-VLV-044": {
+  "source": "range",
+  "iref": "121505"
+ },
+ "LOTO-VLV-043": {
+  "source": "range",
+  "iref": "121504"
+ },
+ "LOTO-VLV-045": {
+  "source": "range",
+  "iref": "170220"
+ },
+ "GS GVLC": {
+  "source": "odoo",
+  "iref": "GS GVLC"
+ },
+ "CBL-01-2M+BFVL-U": {
+  "source": "odoo",
+  "iref": "CBL-01-2M+BFVL-U"
+ },
+ "LOTO-ELE-001": {
+  "source": "range",
+  "iref": "151633"
+ },
+ "LOTO-ELE-028": {
+  "source": "range",
+  "iref": "148690"
+ },
+ "LOTO-ELE-029": {
+  "source": "range",
+  "iref": "148698"
+ },
+ "LOTO-ELE-048": {
+  "source": "range",
+  "iref": "148699"
+ },
+ "LOTO-ELE-004": {
+  "source": "range",
+  "iref": "176495"
+ },
+ "LOTO-ELE-005": {
+  "source": "range",
+  "iref": "176496"
+ },
+ "LOTO-ELE-030": {
+  "source": "range",
+  "iref": "148701"
+ },
+ "LOTO-ELE-031": {
+  "source": "range",
+  "iref": "148687"
+ },
+ "LOTO-ELE-051": {
+  "source": "range",
+  "iref": "148686"
+ },
+ "LOTO-ELE-006": {
+  "source": "range",
+  "iref": "176497"
+ },
+ "LOTO-ELE-007": {
+  "source": "range",
+  "iref": "176498"
+ },
+ "V-LB12": {
+  "source": "pdf",
+  "iref": "V-LB12"
+ },
+ "LOTO-ELE-002": {
+  "source": "range",
+  "iref": "65329"
+ },
+ "LOTO-ELE-003": {
+  "source": "range",
+  "iref": "65321"
+ },
+ "LOTO-ELE-049": {
+  "source": "range",
+  "iref": "148685"
+ },
+ "LOTO-ELE-010": {
+  "source": "range",
+  "iref": "65387"
+ },
+ "LOTO-ELE-011": {
+  "source": "range",
+  "iref": "65688"
+ },
+ "LOTO-ELE-050": {
+  "source": "range",
+  "iref": "148694"
+ },
+ "LOTO-ELE-012": {
+  "source": "range",
+  "iref": "66321"
+ },
+ "LOTO-ELE-013": {
+  "source": "range",
+  "iref": "66320"
+ },
+ "LOTO-ELE-053": {
+  "source": "range",
+  "iref": "148695"
+ },
+ "LOTO-ELE-032": {
+  "source": "range",
+  "iref": "148696"
+ },
+ "LOTO-ELE-033": {
+  "source": "range",
+  "iref": "148688"
+ },
+ "LOTO-ELE-052": {
+  "source": "range",
+  "iref": "148700"
+ },
+ "LOTO-ELE-008": {
+  "source": "range",
+  "iref": "177594"
+ },
+ "LOTO-ELE-009": {
+  "source": "range",
+  "iref": "177595"
+ },
+ "LOTO-ELE-034": {
+  "source": "range",
+  "iref": "177547"
+ },
+ "LOTO-ELE-035": {
+  "source": "range",
+  "iref": "177548"
+ },
+ "LOTO-ELE-019": {
+  "source": "range",
+  "iref": "51256"
+ },
+ "LOTO-ELE-020": {
+  "source": "range",
+  "iref": "65814"
+ },
+ "LOTO-ELE-021": {
+  "source": "range",
+  "iref": "51258"
+ },
+ "LOTO-ELE-022": {
+  "source": "range",
+  "iref": "51260"
+ },
+ "LOTO-ELE-023": {
+  "source": "range",
+  "iref": "89256"
+ },
+ "LOTO-ELE-024": {
+  "source": "range",
+  "iref": "51254"
+ },
+ "LOTO-ELE-025": {
+  "source": "range",
+  "iref": "65810"
+ },
+ "LOTO-ELE-026": {
+  "source": "range",
+  "iref": "51252"
+ },
+ "LOTO-ELE-027": {
+  "source": "range",
+  "iref": "65815"
+ },
+ "LOTO-ELE-018": {
+  "source": "range",
+  "iref": "51265"
+ },
+ "LOTO-ELE-016": {
+  "source": "range",
+  "iref": "90893"
+ },
+ "LOTO-ELE-015": {
+  "source": "range",
+  "iref": "90892"
+ },
+ "LOTO-ELE-014": {
+  "source": "range",
+  "iref": "90891"
+ },
+ "LOTO-ELE-017": {
+  "source": "range",
+  "iref": "51264"
+ },
+ "GS CBL-EU-R": {
+  "source": "odoo",
+  "iref": "GS CBL-EU-R"
+ },
+ "GS CBL-EU-Y": {
+  "source": "odoo",
+  "iref": "GS CBL-EU-Y"
+ },
+ "GS CBL-ABB": {
+  "source": "odoo",
+  "iref": "GS CBL-ABB"
+ },
+ "PIN IN CBL": {
+  "source": "pdf",
+  "iref": "PIN IN CBL"
+ },
+ "PIN OUT CBL": {
+  "source": "pdf",
+  "iref": "PIN OUT CBL"
+ },
+ "CS-CBF": {
+  "source": "pdf",
+  "iref": "CS-CBF"
+ },
+ "LOTO-ELE-037": {
+  "source": "range",
+  "iref": "149433"
+ },
+ "LOTO-ELE-038": {
+  "source": "range",
+  "iref": "149434"
+ },
+ "LOTO-ELE-041": {
+  "source": "range",
+  "iref": "90847"
+ },
+ "LOTO-ELE-042": {
+  "source": "range",
+  "iref": "90848"
+ },
+ "LOTO-ELE-039": {
+  "source": "range",
+  "iref": "90844"
+ },
+ "LOTO-ELE-040": {
+  "source": "range",
+  "iref": "90845"
+ },
+ "LOTO-ELE-043": {
+  "source": "range",
+  "iref": "90850"
+ },
+ "LOTO-ELE-044": {
+  "source": "range",
+  "iref": "90851"
+ },
+ "LOTO-ELE-045": {
+  "source": "range",
+  "iref": "177243"
+ },
+ "LOTO-ELE-046": {
+  "source": "range",
+  "iref": "90853"
+ },
+ "LOTO-ELE-047": {
+  "source": "range",
+  "iref": "90854"
+ },
+ "LOTO-ELE-036": {
+  "source": "range",
+  "iref": "149515"
+ },
+ "GS CBLU-BIG": {
+  "source": "odoo",
+  "iref": "GS CBLU-BIG"
+ },
+ "GS CBL-MFU": {
+  "source": "odoo",
+  "iref": "GS CBL-MFU"
+ },
+ "GS CBL-MP-01": {
+  "source": "odoo",
+  "iref": "GS CBL-MP-01"
+ },
+ "GS CBL-SP-01": {
+  "source": "odoo",
+  "iref": "GS CBL-SP-01"
+ },
+ "GS CBL-SP-02": {
+  "source": "odoo",
+  "iref": "GS CBL-SP-02"
+ },
+ "GS CBL-TS2": {
+  "source": "odoo",
+  "iref": "GS CBL-TS2"
+ },
+ "GS CBL-Y-TS": {
+  "source": "odoo",
+  "iref": "GS CBL-Y-TS"
+ },
+ "GS CBLU-Y-TS": {
+  "source": "odoo",
+  "iref": "GS CBLU-Y-TS"
+ },
+ "V-UBL-SN": {
+  "source": "pdf",
+  "iref": "V-UBL-SN"
+ },
+ "GS CBLU-B": {
+  "source": "odoo",
+  "iref": "GS CBLU-B"
+ },
+ "GS CBLU-UR": {
+  "source": "odoo",
+  "iref": "GS CBLU-UR"
+ },
+ "GS CBLU-G": {
+  "source": "odoo",
+  "iref": "GS CBLU-G"
+ },
+ "GS CBLU-Y": {
+  "source": "odoo",
+  "iref": "GS CBLU-Y"
+ },
+ "CBL SET": {
+  "source": "pdf",
+  "iref": "CBL SET"
+ },
+ "V-CBF-COMBO": {
+  "source": "pdf",
+  "iref": "V-CBF-COMBO"
+ },
+ "GS CBLS COMBO 3": {
+  "source": "odoo",
+  "iref": "GS CBLS COMBO 3"
+ },
+ "GS CBLS COMBO 4": {
+  "source": "odoo",
+  "iref": "GS CBLS COMBO 4"
+ },
+ "GS CBLU-COMBO": {
+  "source": "odoo",
+  "iref": "GS CBLU-COMBO"
+ },
+ "HM-FA-01": {
+  "source": "odoo",
+  "iref": "ELOCK-FA"
+ },
+ "GS EPL - ES": {
+  "source": "odoo",
+  "iref": "GS EPL - ES"
+ },
+ "GS EPL-HL-1": {
+  "source": "odoo",
+  "iref": "GS EPL-HL-1"
+ },
+ "GS EPL - 45": {
+  "source": "odoo",
+  "iref": "GS EPL - 45"
+ },
+ "GS EPL - 55": {
+  "source": "odoo",
+  "iref": "GS EPL - 55"
+ },
+ "GS EPL - SB": {
+  "source": "odoo",
+  "iref": "GS EPL - SB"
+ },
+ "GS EPL - SB 45": {
+  "source": "odoo",
+  "iref": "GS EPL - SB 45"
+ },
+ "GS EPL - SB 90": {
+  "source": "odoo",
+  "iref": "GS EPL - SB 90"
+ },
+ "GS EPL - SS": {
+  "source": "odoo",
+  "iref": "GS EPL - SS"
+ },
+ "V-HPL": {
+  "source": "pdf",
+  "iref": "V-HPL"
+ },
+ "LOTO-SGA-001": {
+  "source": "range",
+  "iref": "150587"
+ },
+ "LOTO-SGA-002": {
+  "source": "range",
+  "iref": "151252"
+ },
+ "LOTO-SGA-007": {
+  "source": "range",
+  "iref": "139793"
+ },
+ "LOTO-SGA-008": {
+  "source": "range",
+  "iref": "139794"
+ },
+ "LOTO-SGA-009": {
+  "source": "range",
+  "iref": "139795"
+ },
+ "LOTO-SGA-010": {
+  "source": "range",
+  "iref": "139796"
+ },
+ "LOTO-SGA-011": {
+  "source": "range",
+  "iref": "130822"
+ },
+ "LOTO-SGA-012": {
+  "source": "range",
+  "iref": "130823"
+ },
+ "LOTO-SGA-013": {
+  "source": "range",
+  "iref": "130824"
+ },
+ "LOTO-SGA-003": {
+  "source": "range",
+  "iref": "134018"
+ },
+ "LOTO-SGA-004": {
+  "source": "range",
+  "iref": "130819"
+ },
+ "LOTO-SGA-005": {
+  "source": "range",
+  "iref": "130820"
+ },
+ "LOTO-SGA-006": {
+  "source": "range",
+  "iref": "130821"
+ },
+ "V-MPB": {
+  "source": "pdf",
+  "iref": "V-MPB"
+ },
+ "V-CIR-22": {
+  "source": "pdf",
+  "iref": "V-CIR-22"
+ },
+ "LOTO-SGA-028": {
+  "source": "range",
+  "iref": "104603"
+ },
+ "LOTO-SGA-027": {
+  "source": "range",
+  "iref": "104602"
+ },
+ "LOTO-SGA-017": {
+  "source": "range",
+  "iref": "PBL4"
+ },
+ "LOTO-SGA-016": {
+  "source": "range",
+  "iref": "PBL2"
+ },
+ "LOTO-SGA-015": {
+  "source": "range",
+  "iref": "PBL8"
+ },
+ "LOTO-SGA-014": {
+  "source": "range",
+  "iref": "PBL6"
+ },
+ "GS CBL-WS-01": {
+  "source": "odoo",
+  "iref": "GS CBL-WS-01"
+ },
+ "LOTO-SGA-018": {
+  "source": "range",
+  "iref": "65696"
+ },
+ "LOTO-SGA-019": {
+  "source": "range",
+  "iref": "64221"
+ },
+ "LOTO-SGA-020": {
+  "source": "range",
+  "iref": "65645"
+ },
+ "LOTO-SGA-023": {
+  "source": "range",
+  "iref": "95138"
+ },
+ "LOTO-SGA-021": {
+  "source": "range",
+  "iref": "90496"
+ },
+ "LOTO-SGA-024": {
+  "source": "range",
+  "iref": "95139"
+ },
+ "LOTO-SGA-022": {
+  "source": "range",
+  "iref": "95137"
+ },
+ "LOTO-SGA-025": {
+  "source": "range",
+  "iref": "64539"
+ },
+ "LOTO-SGA-026": {
+  "source": "range",
+  "iref": "64540"
+ },
+ "GS CLO-1Y": {
+  "source": "odoo",
+  "iref": "GS CLO-1Y"
+ },
+ "GS CLO-1E": {
+  "source": "odoo",
+  "iref": "GS CLO-1E"
+ },
+ "GS CLO-1F": {
+  "source": "odoo",
+  "iref": "GS CLO-1F"
+ },
+ "GS CLO-1R": {
+  "source": "odoo",
+  "iref": "GS CLO-1R"
+ },
+ "LOTO-FUS-002": {
+  "source": "range",
+  "iref": "65751"
+ },
+ "LOTO-FUS-001": {
+  "source": "range",
+  "iref": "65750"
+ },
+ "LOTO-FUS-004": {
+  "source": "range",
+  "iref": "65691"
+ },
+ "LOTO-FUS-003": {
+  "source": "range",
+  "iref": "65690"
+ },
+ "LOTO-FUS-005": {
+  "source": "range",
+  "iref": "873367"
+ },
+ "LOTO-FUS-006": {
+  "source": "range",
+  "iref": "149280"
+ },
+ "LOTO-FUS-007": {
+  "source": "range",
+  "iref": "149281"
+ },
+ "LOTO-FUS-008": {
+  "source": "range",
+  "iref": "149282"
+ },
+ "LOTO-FUS-009": {
+  "source": "range",
+  "iref": "149283"
+ },
+ "LOTO-FUS-010": {
+  "source": "range",
+  "iref": "149284"
+ },
+ "LOTO-FUS-011": {
+  "source": "range",
+  "iref": "149285"
+ },
+ "LOTO-FUS-012": {
+  "source": "range",
+  "iref": "149278"
+ },
+ "LOTO-FUS-013": {
+  "source": "range",
+  "iref": "149279"
+ },
+ "LOTO-PLG-001": {
+  "source": "range",
+  "iref": "150841"
+ },
+ "LOTO-PLG-003": {
+  "source": "range",
+  "iref": "177589"
+ },
+ "LOTO-PLG-002": {
+  "source": "range",
+  "iref": "177588"
+ },
+ "LOTO-PLG-004": {
+  "source": "range",
+  "iref": "178770"
+ },
+ "LOTO-PLG-005": {
+  "source": "range",
+  "iref": "178950"
+ },
+ "LOTO-PLG-006": {
+  "source": "range",
+  "iref": "151874"
+ },
+ "LOTO-PLG-007": {
+  "source": "range",
+  "iref": "151875"
+ },
+ "LOTO-PLG-008": {
+  "source": "range",
+  "iref": "151876"
+ },
+ "LOTO-PLG-011": {
+  "source": "range",
+  "iref": "150821"
+ },
+ "LOTO-PLG-012": {
+  "source": "range",
+  "iref": "150823"
+ },
+ "LOTO-PLG-009": {
+  "source": "range",
+  "iref": "150820"
+ },
+ "LOTO-PLG-010": {
+  "source": "range",
+  "iref": "150822"
+ },
+ "LOTO-PLG-013": {
+  "source": "range",
+  "iref": "148081"
+ },
+ "LOTO-PLG-015": {
+  "source": "range",
+  "iref": "65968"
+ },
+ "LOTO-PLG-014": {
+  "source": "range",
+  "iref": "65695"
+ },
+ "V-CLO-E": {
+  "source": "pdf",
+  "iref": "V-CLO-E"
+ },
+ "LOTO-PLG-016": {
+  "source": "range",
+  "iref": "65674"
+ },
+ "LOTO-PLG-017": {
+  "source": "range",
+  "iref": "65675"
+ },
+ "LOTO-PLG-018": {
+  "source": "range",
+  "iref": "PLO23"
+ },
+ "V-LPLO": {
+  "source": "pdf",
+  "iref": "V-LPLO"
+ },
+ "V-SPLO": {
+  "source": "pdf",
+  "iref": "V-SPLO"
+ },
+ "LOTO-PLG-019": {
+  "source": "range",
+  "iref": "PLO27E"
+ },
+ "V-RP15": {
+  "source": "pdf",
+  "iref": "V-RP15"
+ },
+ "V-RS14 - M": {
+  "source": "pdf",
+  "iref": "V-RS14 - M"
+ },
+ "V-RS14 - B": {
+  "source": "pdf",
+  "iref": "V-RS14 - B"
+ },
+ "GS EPL-PCL": {
+  "source": "odoo",
+  "iref": "GS EPL-PCL"
+ },
+ "LOTO-CSP-001": {
+  "source": "range",
+  "iref": "177438"
+ },
+ "LOTO-CSP-002": {
+  "source": "range",
+  "iref": "177439"
+ },
+ "LOTO-CSP-003": {
+  "source": "range",
+  "iref": "177440"
+ },
+ "LOTO-CSP-004": {
+  "source": "range",
+  "iref": "177441"
+ },
+ "LOTO-CSP-005": {
+  "source": "range",
+  "iref": "177442"
+ },
+ "LOTO-CSP-007": {
+  "source": "range",
+  "iref": "177434"
+ },
+ "LOTO-CSP-006": {
+  "source": "range",
+  "iref": "177433"
+ },
+ "LOTO-CSP-009": {
+  "source": "range",
+  "iref": "177436"
+ },
+ "LOTO-CSP-008": {
+  "source": "range",
+  "iref": "177435"
+ },
+ "LOTO-CSP-010": {
+  "source": "range",
+  "iref": "177437"
+ },
+ "LOTO-CSP-015": {
+  "source": "range",
+  "iref": "43760"
+ },
+ "LOTO-CSP-012": {
+  "source": "range",
+  "iref": "43759"
+ },
+ "LOTO-CSP-013": {
+  "source": "range",
+  "iref": "47198"
+ },
+ "LOTO-CSP-011": {
+  "source": "range",
+  "iref": "43754"
+ },
+ "LOTO-CSP-014": {
+  "source": "range",
+  "iref": "43753"
+ },
+ "LOTO-TAG-114": {
+  "source": "range",
+  "iref": "65445"
+ },
+ "LOTO-TAG-115": {
+  "source": "range",
+  "iref": "65446"
+ },
+ "LOTO-TAG-116": {
+  "source": "range",
+  "iref": "133544"
+ },
+ "LOTO-TAG-111": {
+  "source": "range",
+  "iref": "133497"
+ },
+ "LOTO-TAG-112": {
+  "source": "range",
+  "iref": "133498"
+ },
+ "LOTO-TAG-113": {
+  "source": "range",
+  "iref": "133499"
+ },
+ "LOTO-TAG-108": {
+  "source": "range",
+  "iref": "65505"
+ },
+ "LOTO-TAG-109": {
+  "source": "range",
+  "iref": "65523"
+ },
+ "LOTO-TAG-110": {
+  "source": "range",
+  "iref": "133496"
+ },
+ "LOTO-TAG-123": {
+  "source": "range",
+  "iref": "133491"
+ },
+ "LOTO-TAG-124": {
+  "source": "range",
+  "iref": "65450"
+ },
+ "LOTO-TAG-125": {
+  "source": "range",
+  "iref": "133492"
+ },
+ "LOTO-TAG-120": {
+  "source": "range",
+  "iref": "66061"
+ },
+ "LOTO-TAG-121": {
+  "source": "range",
+  "iref": "66062"
+ },
+ "LOTO-TAG-122": {
+  "source": "range",
+  "iref": "133490"
+ },
+ "LOTO-TAG-117": {
+  "source": "range",
+  "iref": "65515"
+ },
+ "LOTO-TAG-118": {
+  "source": "range",
+  "iref": "65524"
+ },
+ "LOTO-TAG-119": {
+  "source": "range",
+  "iref": "133489"
+ },
+ "LOTO-TAG-132": {
+  "source": "range",
+  "iref": "65454"
+ },
+ "LOTO-TAG-133": {
+  "source": "range",
+  "iref": "65455"
+ },
+ "LOTO-TAG-134": {
+  "source": "range",
+  "iref": "133495"
+ },
+ "LOTO-TAG-129": {
+  "source": "range",
+  "iref": "66066"
+ },
+ "LOTO-TAG-130": {
+  "source": "range",
+  "iref": "66067"
+ },
+ "LOTO-TAG-131": {
+  "source": "range",
+  "iref": "133494"
+ },
+ "LOTO-TAG-126": {
+  "source": "range",
+  "iref": "65526"
+ },
+ "LOTO-TAG-127": {
+  "source": "range",
+  "iref": "65527"
+ },
+ "LOTO-TAG-128": {
+  "source": "range",
+  "iref": "133493"
+ },
+ "LOTO-TAG-141": {
+  "source": "range",
+  "iref": "65447"
+ },
+ "LOTO-TAG-142": {
+  "source": "range",
+  "iref": "65448"
+ },
+ "LOTO-TAG-143": {
+  "source": "range",
+  "iref": "133560"
+ },
+ "LOTO-TAG-138": {
+  "source": "range",
+  "iref": "133558"
+ },
+ "LOTO-TAG-139": {
+  "source": "range",
+  "iref": "66060"
+ },
+ "LOTO-TAG-140": {
+  "source": "range",
+  "iref": "133559"
+ },
+ "LOTO-TAG-135": {
+  "source": "range",
+  "iref": "65506"
+ },
+ "LOTO-TAG-136": {
+  "source": "range",
+  "iref": "65534"
+ },
+ "LOTO-TAG-137": {
+  "source": "range",
+  "iref": "133557"
+ },
+ "LOTO-TAG-150": {
+  "source": "range",
+  "iref": "50261"
+ },
+ "LOTO-TAG-151": {
+  "source": "range",
+  "iref": "133566"
+ },
+ "LOTO-TAG-152": {
+  "source": "range",
+  "iref": "133567"
+ },
+ "LOTO-TAG-147": {
+  "source": "range",
+  "iref": "133563"
+ },
+ "LOTO-TAG-148": {
+  "source": "range",
+  "iref": "133564"
+ },
+ "LOTO-TAG-149": {
+  "source": "range",
+  "iref": "133565"
+ },
+ "LOTO-TAG-144": {
+  "source": "range",
+  "iref": "133561"
+ },
+ "LOTO-TAG-145": {
+  "source": "range",
+  "iref": "50258"
+ },
+ "LOTO-TAG-146": {
+  "source": "range",
+  "iref": "133562"
+ },
+ "LOTO-TAG-159": {
+  "source": "range",
+  "iref": "133555"
+ },
+ "LOTO-TAG-160": {
+  "source": "range",
+  "iref": "50250"
+ },
+ "LOTO-TAG-161": {
+  "source": "range",
+  "iref": "133556"
+ },
+ "LOTO-TAG-156": {
+  "source": "range",
+  "iref": "50198"
+ },
+ "LOTO-TAG-157": {
+  "source": "range",
+  "iref": "50199"
+ },
+ "LOTO-TAG-158": {
+  "source": "range",
+  "iref": "133554"
+ },
+ "LOTO-TAG-153": {
+  "source": "range",
+  "iref": "133551"
+ },
+ "LOTO-TAG-154": {
+  "source": "range",
+  "iref": "133552"
+ },
+ "LOTO-TAG-155": {
+  "source": "range",
+  "iref": "133553"
+ },
+ "LOTO-TAG-168": {
+  "source": "range",
+  "iref": "65443"
+ },
+ "LOTO-TAG-169": {
+  "source": "range",
+  "iref": "65444"
+ },
+ "LOTO-TAG-170": {
+  "source": "range",
+  "iref": "133550"
+ },
+ "LOTO-TAG-165": {
+  "source": "range",
+  "iref": "66055"
+ },
+ "LOTO-TAG-166": {
+  "source": "range",
+  "iref": "66056"
+ },
+ "LOTO-TAG-167": {
+  "source": "range",
+  "iref": "133549"
+ },
+ "LOTO-TAG-162": {
+  "source": "range",
+  "iref": "65504"
+ },
+ "LOTO-TAG-163": {
+  "source": "range",
+  "iref": "65522"
+ },
+ "LOTO-TAG-164": {
+  "source": "range",
+  "iref": "133548"
+ },
+ "LOTO-TAG-177": {
+  "source": "range",
+  "iref": "65441"
+ },
+ "LOTO-TAG-178": {
+  "source": "range",
+  "iref": "65442"
+ },
+ "LOTO-TAG-179": {
+  "source": "range",
+  "iref": "133547"
+ },
+ "LOTO-TAG-174": {
+  "source": "range",
+  "iref": "66053"
+ },
+ "LOTO-TAG-175": {
+  "source": "range",
+  "iref": "66054"
+ },
+ "LOTO-TAG-176": {
+  "source": "range",
+  "iref": "133546"
+ },
+ "LOTO-TAG-171": {
+  "source": "range",
+  "iref": "65503"
+ },
+ "LOTO-TAG-172": {
+  "source": "range",
+  "iref": "65521"
+ },
+ "LOTO-TAG-173": {
+  "source": "range",
+  "iref": "133545"
+ },
+ "LOTO-TAG-186": {
+  "source": "range",
+  "iref": "65407"
+ },
+ "LOTO-TAG-187": {
+  "source": "range",
+  "iref": "65408"
+ },
+ "LOTO-TAG-188": {
+  "source": "range",
+  "iref": "65440"
+ },
+ "LOTO-TAG-183": {
+  "source": "range",
+  "iref": "66050"
+ },
+ "LOTO-TAG-184": {
+  "source": "range",
+  "iref": "66051"
+ },
+ "LOTO-TAG-185": {
+  "source": "range",
+  "iref": "66052"
+ },
+ "LOTO-TAG-180": {
+  "source": "range",
+  "iref": "65502"
+ },
+ "LOTO-TAG-181": {
+  "source": "range",
+  "iref": "65535"
+ },
+ "LOTO-TAG-182": {
+  "source": "range",
+  "iref": "65670"
+ },
+ "LOTO-TAG-195": {
+  "source": "range",
+  "iref": "65451"
+ },
+ "LOTO-TAG-196": {
+  "source": "range",
+  "iref": "65452"
+ },
+ "LOTO-TAG-197": {
+  "source": "range",
+  "iref": "65453"
+ },
+ "LOTO-TAG-192": {
+  "source": "range",
+  "iref": "66063"
+ },
+ "LOTO-TAG-193": {
+  "source": "range",
+  "iref": "66064"
+ },
+ "LOTO-TAG-194": {
+  "source": "range",
+  "iref": "66065"
+ },
+ "LOTO-TAG-189": {
+  "source": "range",
+  "iref": "65520"
+ },
+ "LOTO-TAG-190": {
+  "source": "range",
+  "iref": "65525"
+ },
+ "LOTO-TAG-191": {
+  "source": "range",
+  "iref": "65671"
+ },
+ "GS S-TAG": {
+  "source": "odoo",
+  "iref": "GS S-TAG"
+ },
+ "GS S-TAG-7": {
+  "source": "odoo",
+  "iref": "GS S-TAG-7"
+ },
+ "GS C-TAGS": {
+  "source": "odoo",
+  "iref": "GS C-TAGS"
+ },
+ "GS LH-T-A27": {
+  "source": "odoo",
+  "iref": "GS LH-T-A27"
+ },
+ "LOTO-TAG-026": {
+  "source": "range",
+  "iref": "105634"
+ },
+ "LOTO-TAG-027": {
+  "source": "range",
+  "iref": "105674"
+ },
+ "LOTO-TAG-028": {
+  "source": "range",
+  "iref": "105635"
+ },
+ "LOTO-TAG-029": {
+  "source": "range",
+  "iref": "105675"
+ },
+ "LOTO-TAG-030": {
+  "source": "range",
+  "iref": "105636"
+ },
+ "LOTO-TAG-031": {
+  "source": "range",
+  "iref": "105676"
+ },
+ "LOTO-TAG-032": {
+  "source": "range",
+  "iref": "105637"
+ },
+ "LOTO-TAG-033": {
+  "source": "range",
+  "iref": "105677"
+ },
+ "LOTO-TAG-034": {
+  "source": "range",
+  "iref": "105638"
+ },
+ "LOTO-TAG-035": {
+  "source": "range",
+  "iref": "105673"
+ },
+ "LOTO-TAG-036": {
+  "source": "range",
+  "iref": "105639"
+ },
+ "LOTO-TAG-037": {
+  "source": "range",
+  "iref": "105679"
+ },
+ "LOTO-TAG-038": {
+  "source": "range",
+  "iref": "105640"
+ },
+ "LOTO-TAG-039": {
+  "source": "range",
+  "iref": "105680"
+ },
+ "LOTO-TAG-040": {
+  "source": "range",
+  "iref": "105641"
+ },
+ "LOTO-TAG-041": {
+  "source": "range",
+  "iref": "105681"
+ },
+ "LOTO-TAG-042": {
+  "source": "range",
+  "iref": "105642"
+ },
+ "LOTO-TAG-043": {
+  "source": "range",
+  "iref": "105682"
+ },
+ "LOTO-TAG-044": {
+  "source": "range",
+  "iref": "105643"
+ },
+ "LOTO-TAG-045": {
+  "source": "range",
+  "iref": "105683"
+ },
+ "LOTO-TAG-046": {
+  "source": "range",
+  "iref": "105669"
+ },
+ "LOTO-TAG-047": {
+  "source": "range",
+  "iref": "105709"
+ },
+ "LOTO-TAG-048": {
+  "source": "range",
+  "iref": "105670"
+ },
+ "LOTO-TAG-049": {
+  "source": "range",
+  "iref": "105710"
+ },
+ "LOTO-TAG-050": {
+  "source": "range",
+  "iref": "105671"
+ },
+ "LOTO-TAG-051": {
+  "source": "range",
+  "iref": "105711"
+ },
+ "LOTO-TAG-052": {
+  "source": "range",
+  "iref": "105672"
+ },
+ "LOTO-TAG-053": {
+  "source": "range",
+  "iref": "105712"
+ },
+ "LOTO-TAG-054": {
+  "source": "range",
+  "iref": "105713"
+ },
+ "LOTO-TAG-055": {
+  "source": "range",
+  "iref": "105654"
+ },
+ "LOTO-TAG-056": {
+  "source": "range",
+  "iref": "105694"
+ },
+ "LOTO-TAG-057": {
+  "source": "range",
+  "iref": "105655"
+ },
+ "LOTO-TAG-058": {
+  "source": "range",
+  "iref": "105695"
+ },
+ "LOTO-TAG-059": {
+  "source": "range",
+  "iref": "105656"
+ },
+ "LOTO-TAG-060": {
+  "source": "range",
+  "iref": "105696"
+ },
+ "LOTO-TAG-061": {
+  "source": "range",
+  "iref": "105657"
+ },
+ "LOTO-TAG-062": {
+  "source": "range",
+  "iref": "105697"
+ },
+ "LOTO-TAG-063": {
+  "source": "range",
+  "iref": "105658"
+ },
+ "LOTO-TAG-064": {
+  "source": "range",
+  "iref": "105698"
+ },
+ "LOTO-TAG-075": {
+  "source": "range",
+  "iref": "105659"
+ },
+ "LOTO-TAG-076": {
+  "source": "range",
+  "iref": "105699"
+ },
+ "LOTO-TAG-077": {
+  "source": "range",
+  "iref": "105660"
+ },
+ "LOTO-TAG-078": {
+  "source": "range",
+  "iref": "105700"
+ },
+ "LOTO-TAG-079": {
+  "source": "range",
+  "iref": "105661"
+ },
+ "LOTO-TAG-080": {
+  "source": "range",
+  "iref": "105701"
+ },
+ "LOTO-TAG-081": {
+  "source": "range",
+  "iref": "105662"
+ },
+ "LOTO-TAG-082": {
+  "source": "range",
+  "iref": "105702"
+ },
+ "LOTO-TAG-083": {
+  "source": "range",
+  "iref": "105663"
+ },
+ "LOTO-TAG-084": {
+  "source": "range",
+  "iref": "105703"
+ },
+ "LOTO-TAG-065": {
+  "source": "range",
+  "iref": "105649"
+ },
+ "LOTO-TAG-066": {
+  "source": "range",
+  "iref": "105689"
+ },
+ "LOTO-TAG-067": {
+  "source": "range",
+  "iref": "105650"
+ },
+ "LOTO-TAG-068": {
+  "source": "range",
+  "iref": "105690"
+ },
+ "LOTO-TAG-069": {
+  "source": "range",
+  "iref": "105651"
+ },
+ "LOTO-TAG-070": {
+  "source": "range",
+  "iref": "105691"
+ },
+ "LOTO-TAG-071": {
+  "source": "range",
+  "iref": "105652"
+ },
+ "LOTO-TAG-072": {
+  "source": "range",
+  "iref": "105692"
+ },
+ "LOTO-TAG-073": {
+  "source": "range",
+  "iref": "105653"
+ },
+ "LOTO-TAG-074": {
+  "source": "range",
+  "iref": "105693"
+ },
+ "LOTO-TAG-085": {
+  "source": "range",
+  "iref": "105664"
+ },
+ "LOTO-TAG-086": {
+  "source": "range",
+  "iref": "105704"
+ },
+ "LOTO-TAG-087": {
+  "source": "range",
+  "iref": "105665"
+ },
+ "LOTO-TAG-088": {
+  "source": "range",
+  "iref": "105705"
+ },
+ "LOTO-TAG-089": {
+  "source": "range",
+  "iref": "105666"
+ },
+ "LOTO-TAG-090": {
+  "source": "range",
+  "iref": "105706"
+ },
+ "LOTO-TAG-091": {
+  "source": "range",
+  "iref": "105667"
+ },
+ "LOTO-TAG-092": {
+  "source": "range",
+  "iref": "105707"
+ },
+ "LOTO-TAG-093": {
+  "source": "range",
+  "iref": "105668"
+ },
+ "LOTO-TAG-094": {
+  "source": "range",
+  "iref": "105708"
+ },
+ "LOTO-TAG-095": {
+  "source": "range",
+  "iref": "105644"
+ },
+ "LOTO-TAG-096": {
+  "source": "range",
+  "iref": "105684"
+ },
+ "LOTO-TAG-097": {
+  "source": "range",
+  "iref": "105645"
+ },
+ "LOTO-TAG-098": {
+  "source": "range",
+  "iref": "105685"
+ },
+ "LOTO-TAG-099": {
+  "source": "range",
+  "iref": "105646"
+ },
+ "LOTO-TAG-100": {
+  "source": "range",
+  "iref": "105686"
+ },
+ "LOTO-TAG-101": {
+  "source": "range",
+  "iref": "105647"
+ },
+ "LOTO-TAG-102": {
+  "source": "range",
+  "iref": "105687"
+ },
+ "LOTO-TAG-103": {
+  "source": "range",
+  "iref": "105648"
+ },
+ "LOTO-TAG-104": {
+  "source": "range",
+  "iref": "105688"
+ },
+ "LOTO-TAG-017": {
+  "source": "range",
+  "iref": "65500"
+ },
+ "LOTO-TAG-018": {
+  "source": "range",
+  "iref": "65501"
+ },
+ "LOTO-TAG-019": {
+  "source": "range",
+  "iref": "96222"
+ },
+ "LOTO-TAG-106": {
+  "source": "range",
+  "iref": "105723"
+ },
+ "LOTO-TAG-107": {
+  "source": "range",
+  "iref": "105724"
+ },
+ "LOTO-TAG-105": {
+  "source": "range",
+  "iref": "105722"
+ },
+ "LOTO-TAG-020": {
+  "source": "range",
+  "iref": "148824"
+ },
+ "LOTO-TAG-021": {
+  "source": "range",
+  "iref": "81762"
+ },
+ "LOTO-TAG-025": {
+  "source": "range",
+  "iref": "CLT4"
+ },
+ "LOTO-TAG-024": {
+  "source": "range",
+  "iref": "PLLT4"
+ },
+ "LOTO-TAG-023": {
+  "source": "range",
+  "iref": "CLT2"
+ },
+ "LOTO-TAG-022": {
+  "source": "range",
+  "iref": "PLLT2"
+ },
+ "LOTO-TAG-016": {
+  "source": "range",
+  "iref": "WKT3"
+ },
+ "LOTO-TAG-015": {
+  "source": "range",
+  "iref": "WKT2"
+ },
+ "LOTO-TAG-011": {
+  "source": "range",
+  "iref": "121517"
+ },
+ "LOTO-TAG-010": {
+  "source": "range",
+  "iref": "121516"
+ },
+ "LOTO-TAG-009": {
+  "source": "range",
+  "iref": "121515"
+ },
+ "LOTO-TAG-014": {
+  "source": "range",
+  "iref": "121520"
+ },
+ "LOTO-TAG-013": {
+  "source": "range",
+  "iref": "121519"
+ },
+ "LOTO-TAG-012": {
+  "source": "range",
+  "iref": "121518"
+ },
+ "LOTO-TAG-005": {
+  "source": "range",
+  "iref": "145588"
+ },
+ "LOTO-TAG-006": {
+  "source": "range",
+  "iref": "145589"
+ },
+ "LOTO-TAG-002": {
+  "source": "range",
+  "iref": "150501"
+ },
+ "LOTO-TAG-001": {
+  "source": "range",
+  "iref": "150502"
+ },
+ "LOTO-TAG-004": {
+  "source": "range",
+  "iref": "150503"
+ },
+ "LOTO-TAG-003": {
+  "source": "range",
+  "iref": "150504"
+ },
+ "LOTO-TAG-007": {
+  "source": "range",
+  "iref": "121514"
+ },
+ "LOTO-TAG-008": {
+  "source": "range",
+  "iref": "98219"
+ },
+ "LOTO-TAG-198": {
+  "source": "range",
+  "iref": "145766"
+ },
+ "LOTO-TAG-199": {
+  "source": "range",
+  "iref": "145767"
+ },
+ "LOTO-TAG-200": {
+  "source": "range",
+  "iref": "145768"
+ },
+ "LOTO-TAG-201": {
+  "source": "range",
+  "iref": "145769"
+ }
+}

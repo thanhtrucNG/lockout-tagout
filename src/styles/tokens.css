@@ -1,0 +1,44 @@
+:root {
+  color-scheme: light;
+  --navy: #102d46;
+  --navy-dark: #082238;
+  --accent: #e1361e;
+  --accent-action: #d8321c;
+  --accent-dark: #b92c18;
+  --accent-soft: #fff1ed;
+  --background: #f5f7f8;
+  --surface: #fff;
+  --text: #14202b;
+  --muted: #5d6872;
+  --line: #dce2e7;
+  /* One font family for the whole site (template §5.1): Be Vietnam Pro, self-hosted in assets/fonts
+     (see fonts.css). Segoe UI / Arial are fallbacks while it loads. */
+  --font-ui: 'Be Vietnam Pro', 'Segoe UI', Arial, sans-serif;
+  --font-body: var(--font-ui);
+  --font-display: var(--font-ui);
+  --font-mono: var(--font-ui);
+  --text-xs: .75rem;
+  --text-sm: .875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --space-1: .25rem;
+  --space-2: .5rem;
+  --space-3: .75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --radius-sm: 4px;
+  --radius: 8px;
+  --container-width: 1200px;
+  --page-gutter: 48px;
+  --header-height: 80px;
+  --shadow: 0 8px 28px rgb(8 34 56 / 7%);
+}
+/* Three breakpoints only (template §6.2): 768 / 1024 / 1280. Fixed values per range, no fluid clamp(). */
+@media (max-width: 1279.98px) { :root { --page-gutter: 32px; } }
+@media (max-width: 1023.98px) { :root { --header-height: 72px; } }
+@media (max-width: 767.98px) { :root { --page-gutter: 16px; --header-height: 64px; } }

@@ -1,0 +1,93 @@
+{
+  "source": "data-source/loto.json",
+  "groups": [
+    {
+      "id": "lockout-padlocks",
+      "label_en": "Lockout padlocks",
+      "label_vi": "Khóa an toàn lockout",
+      "order": 1,
+      "family_count": 57,
+      "sku_count": 179
+    },
+    {
+      "id": "group-lockout",
+      "label_en": "Group lockout",
+      "label_vi": "Khóa nhóm",
+      "order": 2,
+      "family_count": 52,
+      "sku_count": 77
+    },
+    {
+      "id": "kits-stations",
+      "label_en": "Kits & stations",
+      "label_vi": "Bộ kit & trạm lockout",
+      "order": 3,
+      "family_count": 55,
+      "sku_count": 85
+    },
+    {
+      "id": "cable-lockouts",
+      "label_en": "Cable lockouts",
+      "label_vi": "Khóa cáp lockout",
+      "order": 4,
+      "family_count": 26,
+      "sku_count": 46
+    },
+    {
+      "id": "valve-lockouts",
+      "label_en": "Valve lockouts",
+      "label_vi": "Khóa van lockout",
+      "order": 5,
+      "family_count": 34,
+      "sku_count": 82
+    },
+    {
+      "id": "electrical-lockouts",
+      "label_en": "Electrical lockouts",
+      "label_vi": "Khóa thiết bị điện",
+      "order": 6,
+      "family_count": 61,
+      "sku_count": 87
+    },
+    {
+      "id": "switch-gas-air",
+      "label_en": "Switch, gas & air lockouts",
+      "label_vi": "Khóa công tắc, khí & hơi",
+      "order": 7,
+      "family_count": 21,
+      "sku_count": 36
+    },
+    {
+      "id": "fuse-terminal",
+      "label_en": "Fuse & terminal lockouts",
+      "label_vi": "Khóa cầu chì & đầu nối",
+      "order": 8,
+      "family_count": 7,
+      "sku_count": 13
+    },
+    {
+      "id": "plug-vehicle",
+      "label_en": "Plug & vehicle lockouts",
+      "label_vi": "Khóa phích cắm & phương tiện",
+      "order": 9,
+      "family_count": 16,
+      "sku_count": 26
+    },
+    {
+      "id": "confined-space",
+      "label_en": "Confined space covers",
+      "label_vi": "Nắp & biển không gian hạn chế",
+      "order": 10,
+      "family_count": 6,
+      "sku_count": 15
+    },
+    {
+      "id": "lockout-tags",
+      "label_en": "Lockout tags",
+      "label_vi": "Thẻ lockout tagout",
+      "order": 11,
+      "family_count": 42,
+      "sku_count": 205
+    }
+  ]
+}

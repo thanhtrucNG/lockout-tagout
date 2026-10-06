@@ -1,0 +1,33 @@
+/* Footer — same as the specs catalogue footer (without its tagline): one navy ocean
+   band (red top line) with a single row of contact links. The band's background image is set in
+   marine-theme.css (.footer-band). */
+.site-footer { padding: 0; }
+
+
+.footer-band { border-top: 3px solid var(--hyperion-red, #e63720); color: #fff; }
+/* Right-aligned: the links sit together at the right edge of the page's .container (same edge as the content above). */
+.footer-links { display: flex; justify-content: flex-end; align-items: center; gap: 12px 40px; padding-block: 36px; }
+/* "Contact:" label directly before the first link, part of the right-aligned group. */
+.footer-title { margin-right: -16px; color: #ff8a73; font-size: 18px; line-height: 1.4; font-weight: 700; white-space: nowrap; }
+
+a.footer-link {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 0; padding: 0;
+  color: #fff; font-size: 18px; line-height: 1.4; font-weight: 600; text-decoration: none; white-space: nowrap;
+}
+a.footer-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+a.footer-link:focus-visible { outline: 2px solid #fff; outline-offset: 4px; border-radius: 2px; }
+.footer-link-icon { display: flex; flex: none; width: 24px; height: 24px; color: #ff8a73; }
+.footer-link-icon svg { width: 100%; height: 100%; }
+img.footer-link-icon { border-radius: 5px; }
+
+/* Tablets: still right-aligned, closer together so all five stay on one row. Phones: centred wrapped rows. */
+@media (max-width: 1023.98px) {
+  /* Be Vietnam Pro is wider than HandyPad's font: 16px text and a 14px gap keep all five on one row at 768px. */
+  .footer-links { flex-wrap: wrap; column-gap: 14px; }
+  a.footer-link { font-size: 16px; }
+  .footer-title { display: none; } /* no spare room beside the links below 1024px */
+}
+@media (max-width: 767.98px) {
+  .footer-links { justify-content: center; gap: 16px 24px; padding-block: 32px; }
+  a.footer-link { min-height: 32px; font-size: 18px; } /* comfortable tap target */
+}

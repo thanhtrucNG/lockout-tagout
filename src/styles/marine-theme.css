@@ -1,0 +1,397 @@
+/*
+  HYPERION selective marine visual layer.
+  IMPORTANT: this file is visual-only. Do not use it to remove, rename, reorder,
+  or disable existing CTA, workflow, data, cart, checkout, validation, or locale logic.
+  Approved reference screenshots guide visual treatment only; existing functionality wins.
+*/
+
+:root {
+  --hyperion-navy-950: #06263d;
+  --hyperion-navy-900: #082d49;
+  --hyperion-navy-800: #0d3a5a;
+  --hyperion-blue-100: #eaf5fb;
+  --hyperion-blue-50: #f4f9fc;
+  --hyperion-surface: #fbfdfe;
+  --hyperion-page: #f3f7f9;
+  --hyperion-text: #092c46;
+  --hyperion-text-muted: #60788b;
+  --hyperion-border: #cbd9e3;
+  --hyperion-border-soft: #dce6ed;
+  --hyperion-red: #e63720;
+  --hyperion-red-hover: #c92e1b;
+  --hyperion-red-soft: #fff2ee;
+  --hyperion-coral: #ff7058;
+  --hyperion-shadow: 0 10px 28px rgb(5 39 62 / 9%);
+
+  /* Map the established Phase 16 tokens onto the approved marine palette. */
+  --navy: var(--hyperion-navy-800);
+  --navy-dark: var(--hyperion-navy-950);
+  --accent: var(--hyperion-red);
+  --accent-action: var(--hyperion-red);
+  --accent-dark: var(--hyperion-red-hover);
+  --accent-soft: var(--hyperion-red-soft);
+  --background: var(--hyperion-page);
+  --surface: #fff;
+  --text: var(--hyperion-text);
+  --muted: var(--hyperion-text-muted);
+  --line: var(--hyperion-border);
+  --shadow: var(--hyperion-shadow);
+}
+
+body {
+  background: linear-gradient(180deg, rgba(244, 249, 252, .96), rgba(248, 251, 253, .99));
+  color: var(--hyperion-text);
+}
+
+h1, h2, h3 { color: var(--hyperion-navy-950); }
+
+/* Header: preserve all current nav items and CONTACT SALES, only migrate visuals. */
+.site-header {
+  background-color: #eef8ff;
+  background-image:
+    linear-gradient(rgba(255,255,255,.12), rgba(255,255,255,.12)),
+    url('../assets/theme/theme-header-sky.png');
+  background-size: cover;
+  background-position: center;
+  border-bottom: 2px solid var(--hyperion-red);
+  box-shadow: 0 2px 12px rgb(6 38 61 / 5%);
+}
+.header-section-link,
+.header-lookup { color: var(--hyperion-navy-950); }
+.header-section-link:hover,
+.header-lookup:hover { color: var(--hyperion-red-hover); }
+.language-switch {
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--hyperion-border);
+  border-radius: 7px;
+  background: rgba(255,255,255,.92);
+}
+.language-option {
+  width: 44px;
+  height: 44px;
+  border-radius: 0;
+  color: var(--hyperion-navy-950);
+  background: transparent;
+  box-shadow: none;
+}
+.language-option + .language-option { border-left: 1px solid var(--hyperion-border); }
+.language-option[aria-pressed='true'] {
+  background: var(--hyperion-navy-950);
+  color: #fff;
+  box-shadow: none;
+}
+.language-option:hover:not([aria-pressed='true']) {
+  background: rgba(255,255,255,.78);
+  color: var(--hyperion-navy-950);
+}
+.header-contact-sales {
+  min-height: 44px;
+  border-color: #6f8799;
+  border-radius: 7px;
+  background: var(--hyperion-navy-950);
+  color: #fff;
+  box-shadow: 0 6px 16px rgb(6 38 61 / 10%);
+}
+.header-contact-sales:hover {
+  border-color: var(--hyperion-red);
+  background: var(--hyperion-navy-800);
+}
+.header-menu {
+  border-color: var(--hyperion-border);
+  background: rgba(255,255,255,.92);
+  color: var(--hyperion-navy-950);
+}
+
+/* Hero (template §1.1, §3.3): navy motif until a hero photo exists, then the photo under the §3.3 overlay.
+   hero.js adds .hero-has-photo once src/assets/products/loto/hero.webp loads. */
+.hero {
+  z-index: 1;
+  border-top: 0;
+  background-color: var(--hyperion-navy-950);
+  background-image:
+    linear-gradient(90deg, rgba(4,33,53,.86) 0%, rgba(4,33,53,.70) 38%, rgba(4,33,53,.30) 68%, rgba(4,33,53,.08) 100%),
+    url('../assets/products/loto/hero-motif.svg');
+  background-size: cover;
+  background-position: center;
+}
+.hero.hero-has-photo {
+  background-image:
+    linear-gradient(90deg, rgba(4,33,53,.86) 0%, rgba(4,33,53,.70) 38%, rgba(4,33,53,.30) 68%, rgba(4,33,53,.08) 100%),
+    var(--hero-photo);
+  background-position: center right;
+}
+@media (max-width: 767.98px) {
+  .hero, .hero.hero-has-photo { background-image: linear-gradient(180deg, rgba(4,33,53,.84) 0%, rgba(4,33,53,.74) 100%), var(--hero-photo, url('../assets/products/loto/hero-motif.svg')); }
+}
+.hero-inner { position: relative; display: block; min-height: 400px; padding-block: 64px; }
+@media (max-width: 1023.98px) { .hero-inner { min-height: 360px; padding-block: 48px 64px; } }
+@media (max-width: 767.98px) { .hero-inner { min-height: 0; padding-block: 40px 48px; } }
+.hero-copy { position: relative; z-index: 1; }
+.hero .eyebrow { margin-bottom: 12px; color: #fff; font-size: 14px; font-weight: 700; letter-spacing: .12em; }
+.hero .eyebrow-accent { margin-left: .4em; color: #ff8a73; }
+.hero h1 { color: #fff; font-size: 40px; font-weight: 700; line-height: 1.2; letter-spacing: 0; }
+.hero-title-second { display: block; color: #c7ddea; white-space: normal; text-wrap: wrap; }
+@media (max-width: 767.98px) { .hero h1 { font-size: 28px; } }
+.hero-actions { gap: 16px; margin-top: 32px; }
+.hero-action { gap: 12px; }
+.hero-action .icon, .hero-action .icon svg { width: 20px; height: 20px; }
+.hero-actions .button-primary { min-width: 208px; justify-content: center; }
+@media (max-width: 767.98px) { .hero-actions { margin-top: 24px; } .hero-actions .button-primary { min-width: 0; } }
+
+.hero-title-second { color: #c7ddea; }
+.eyebrow { color: #ffc0b3; }
+.hero-catalogue { border-left-color: rgb(255 255 255 / 24%); }
+.hero-previews .product-image {
+  background: rgba(255,255,255,.96);
+  box-shadow: 0 6px 18px rgb(2 20 32 / 18%);
+}
+
+/* Shared clean technical surfaces. No structural re-layout. */
+.lookup-panel,
+.group-selector,
+.configuration-step,
+.result-card,
+.search-empty {
+  background: rgba(255,255,255,.96);
+  border-color: var(--hyperion-border-soft);
+  border-radius: 8px;
+  box-shadow: 0 7px 20px rgb(6 38 61 / 5.5%);
+}
+.lookup-panel { border-top-color: var(--hyperion-red); }
+.configurator,
+.results-grid,
+.search-family,
+.grouped-result + .grouped-result,
+.edition-controls,
+.shipping-fee,
+.checkout-totals:not(:empty) { border-color: var(--hyperion-border-soft); }
+
+.step-number {
+  background: var(--hyperion-navy-950);
+  color: #fff;
+  border-radius: 4px;
+}
+.configuration-step[data-state='current'] .step-number,
+.group-selector[data-state='current'] .step-number,
+#order-payment:not([data-state='locked']) > legend .step-number {
+  background: var(--hyperion-red);
+}
+.configuration-step[data-state='locked'] {
+  border-color: var(--hyperion-border-soft);
+  background: #edf3f7;
+}
+.configuration-step[data-state='locked'] .step-number { background: #728596; }
+/* Compact upcoming steps: the next locked step stays a card explaining what unlocks it;
+   later ones collapse to a quiet title row (message kept for screen readers). */
+.configuration-step[data-state='locked'] { min-height: 0; padding-block: 2px; border-color: transparent; background: transparent; box-shadow: none; }
+.configuration-step[data-state='locked'] .locked-message {
+  position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+}
+/* "Next" is set by src/lib/locked-steps.js (data-next-locked), never by sibling selectors — see template §9.5. */
+.configuration-step[data-state='locked'][data-next-locked] {
+  padding-block: 8px 12px; border-color: var(--hyperion-border-soft); background: #edf3f7;
+}
+.configuration-step[data-state='locked'][data-next-locked] .locked-message {
+  position: static; width: auto; height: auto; margin: 0; overflow: visible; clip-path: none; white-space: normal;
+}
+
+/* Unified selected state across the current components. */
+.group-option[aria-pressed='true'],
+.sign-option[aria-pressed='true'],
+.attribute-option[aria-pressed='true'],
+.size-matrix button[aria-pressed='true']:not(:disabled),
+.payment-choice[aria-pressed='true'] {
+  border-color: var(--hyperion-red);
+  background: var(--hyperion-red-soft);
+  box-shadow: inset 0 0 0 1px var(--hyperion-red);
+}
+.group-option[aria-pressed='true'] .group-marker {
+  background: var(--hyperion-red);
+  border-color: var(--hyperion-red);
+}
+.option-check { color: var(--hyperion-red); }
+.group-option,
+.sign-option,
+.attribute-option,
+.size-matrix .attribute-option {
+  border-color: var(--hyperion-border);
+  background: #fff;
+  color: var(--hyperion-navy-950);
+}
+.size-matrix button:disabled {
+  background: #dfe7ec;
+  border-color: #c3cfd8;
+  color: #71818e;
+}
+
+/* Search stays compact and catalogue-like. */
+.search-field,
+.concept-filter,
+.shipping-field input,
+.transfer-reference input {
+  border-color: #9fb6c7;
+  border-radius: 4px;
+  background: #fff;
+}
+.search-field:focus-within,
+.shipping-field input:focus,
+.transfer-reference input:focus {
+  border-color: var(--hyperion-navy-800);
+  outline: none;
+  box-shadow: 0 0 0 3px rgb(13 58 90 / 8%);
+}
+.lookup .results-grid {
+  border-color: var(--hyperion-border-soft);
+  background: rgba(255,255,255,.96);
+}
+.lookup .result-card,
+.lookup .grouped-result,
+.search-family { border-color: var(--hyperion-border-soft); }
+.lookup .result-card { background: rgba(255,255,255,.96); }
+.result-reference,
+.result-impa { font-variant-numeric: tabular-nums; }
+
+/* Buttons: existing labels/actions preserved. */
+.button-primary,
+.search-submit,
+.add-to-cart,
+.payment-cta {
+  background: var(--hyperion-red);
+  border-color: var(--hyperion-red);
+  color: #fff;
+}
+.button-primary:hover,
+.search-submit:hover,
+.add-to-cart:hover:not(:disabled),
+.payment-cta:hover:not(:disabled) {
+  background: var(--hyperion-red-hover);
+  border-color: var(--hyperion-red-hover);
+}
+
+/* Sticky Order Summary: keep component behavior/placement/CTA intact. */
+.summary-shell {
+  border: 1px solid #274e69;
+  border-top: 3px solid var(--hyperion-red);
+  border-radius: 14px;
+  background-color: var(--hyperion-navy-950);
+  background-image:
+    linear-gradient(rgba(4,37,60,.34), rgba(4,37,60,.25)),
+    url('../assets/theme/theme-summary-ocean.png');
+  background-size: cover;
+  background-position: center bottom;
+  box-shadow: 0 18px 38px rgb(7 39 62 / 18%);
+}
+@supports selector(.summary-shell:has(.order-row:nth-child(4))) {
+  .summary-shell:has(.order-row:nth-child(4)) {
+    background-image:
+      linear-gradient(rgba(4,37,60,.32), rgba(4,37,60,.22)),
+      url('../assets/theme/theme-summary-ocean-tall.png');
+  }
+}
+.summary-header h3,
+.summary-close { color: #fff; }
+.order-counts { color: #d0dde6; }
+.order-totals { border-top-color: rgb(255 255 255 / 20%); }
+.order-total-line > span { color: #d1dde5; }
+.summary-shell[data-financial-state='payment'] .order-total-amount,
+.summary-payment .payment-due-row dd { color: var(--hyperion-coral); }
+.summary-next-action {
+  background: var(--hyperion-red);
+  border-color: var(--hyperion-red);
+  color: #fff;
+}
+.summary-next-action:hover { background: var(--hyperion-red-hover); border-color: var(--hyperion-red-hover); }
+.mobile-summary-bar {
+  background: var(--hyperion-navy-950);
+  border-top-color: var(--hyperion-border);
+}
+
+/* Contact & Shipping + Payment: visual refinement only. */
+#contact-shipping:not([data-state='locked']),
+#order-payment:not([data-state='locked']) {
+  background: rgba(255,255,255,.96);
+  border-color: var(--hyperion-border-soft);
+  border-radius: 8px;
+  box-shadow: 0 7px 20px rgb(6 38 61 / 5.5%);
+}
+.payment-choice {
+  border-color: var(--hyperion-border);
+  background: #fff;
+  color: var(--hyperion-navy-950);
+}
+.payment-choice:hover:not(:disabled) { border-color: #8298a8; }
+.payment-choice:disabled {
+  background: #e7edf1;
+  border-color: #d0dae1;
+}
+.country-options { border-color: var(--hyperion-border); }
+.country-option:hover,
+.country-option[aria-selected='true'] { background: var(--hyperion-red-soft); }
+
+/* Payment modal theming. */
+.payment-modal::backdrop { background: rgb(3 19 33 / 74%); }
+.payment-modal {
+  border-color: #446078;
+  border-top-color: var(--hyperion-red);
+  border-radius: 12px;
+  background: var(--hyperion-navy-950);
+}
+.payment-modal-due strong { color: #ff947d; }
+
+/* Footer band: the ocean asset under a deep navy wash (template §3.3). */
+.footer-band {
+  background-color: var(--hyperion-navy-950);
+  background-image:
+    linear-gradient(
+      180deg,
+      rgba(3,35,56,.84) 0%,
+      rgba(3,35,56,.78) 55%,
+      rgba(3,35,56,.70) 100%
+    ),
+    url('../assets/theme/theme-footer-ocean.png');
+  background-size: cover;
+  /* The band shows a thin slice of a 3:1 photo: 70% down puts the wave crests in view (the middle is sky). */
+  background-position: 30% 70%;
+  color: #d5e0e7;
+}
+
+@media (max-width: 1023.98px) {
+  .header-nav-links {
+    background-color: rgba(255,255,255,.97);
+    background-image: linear-gradient(rgba(255,255,255,.12), rgba(255,255,255,.12)), url('../assets/theme/theme-header-sky.png');
+    background-size: cover;
+    border-color: var(--hyperion-border);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .summary-shell {
+    background-image:
+      linear-gradient(rgba(4,37,60,.34), rgba(4,37,60,.25)),
+      url('../assets/theme/theme-summary-ocean-tall.png');
+  }
+}
+
+/* CTA buttons: text always in capitals, EN and VI (template §5.3). Labels stay sentence case in locale.js. */
+.button,
+.header-contact-sales,
+.header-menu,
+.configurator-reset,
+.summary-close,
+a.contact-chat-link,
+.mobile-summary-action {
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* No product search card on this page, so nothing overlaps the feature section:
+   the shop section starts with normal section padding and the configurator heads it without a divider. */
+.shopping-layout { margin-top: 0; padding-top: 96px; }
+.shopping-main > .configurator { border-top: 0; padding-top: 0; }
+@media (max-width: 1023.98px) { .shopping-layout { padding-top: 64px; } }
+@media (max-width: 767.98px) { .shopping-layout { margin-top: 0; padding-top: 48px; } }
