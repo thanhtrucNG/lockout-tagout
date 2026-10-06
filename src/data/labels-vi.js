@@ -177,8 +177,6 @@ export default {
  "9 locks": "9 khóa",
  "Lockout tagout station with group lock box": "Trạm lockout tagout kèm hộp khóa nhóm",
  "Lockout tagout station, clear fascia": "Trạm lockout tagout, mặt trong suốt",
- "Lockout tagout wall case": "Hộp treo tường lockout tagout",
- "Model 4400-L": "Mẫu 4400-L",
  "PVC lockout station": "Trạm lockout nhựa PVC",
  "PVC lockout station with hinged cover": "Trạm lockout PVC có nắp bản lề",
  "5–10 locks": "5–10 khóa",

@@ -45,7 +45,7 @@ export function odooItem(ref) {
   if (ref === 'GS-LTS 6+GLB') return item('kit-station-lockout', F('Lockout tagout station with group lock box', 'Trạm lockout tagout kèm hộp khóa nhóm'), F('6 locks', '6 khóa'));
   if (ref === 'SOFAMEL.765100') return item('kit-station-lockout', F('Lockout station, model LS-4', 'Trạm lockout, mẫu LS-4'), F('4 locks', '4 khóa'));
   if (ref === 'SOFAMEL.765101') return item('kit-station-lockout', F('Lockout station, model LS-10', 'Trạm lockout, mẫu LS-10'), F('10 locks', '10 khóa'));
-  if (ref === '4400‐L') return item('kit-station-lockout', F('Lockout tagout wall case', 'Hộp treo tường lockout tagout'), F('Model 4400-L', 'Mẫu 4400-L'));
+  // 4400‐L (23.5.8.5.3.113) belongs to SCBA & EEBA Accessories, outside this LOTO website.
   if (ref === 'GS SLC-5K') return item('kit-storage-cabinet', F('Safety lockout cabinet with 5 keys', 'Tủ lockout kèm 5 chìa'));
   if (ref === 'GS SLC-5L') return item('kit-storage-cabinet', F('Safety lockout cabinet with 5 locks', 'Tủ lockout kèm 5 khóa'));
   if (ref === 'GS H-T-C') return item('kit-storage-cabinet', F('Hasp & tag cabinet', 'Tủ đựng móc khóa & thẻ'), F('50 hasps + 50 tags', '50 móc + 50 thẻ'));

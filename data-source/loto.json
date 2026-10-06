@@ -7634,28 +7634,6 @@
    "price_estimate": false
   },
   {
-   "id": "HM-4400-L",
-   "source": "odoo",
-   "concept_id": "kit-station-lockout",
-   "family_id": "kit-station-lockout:lockout-tagout-wall-case",
-   "fam": {
-    "en": "Lockout tagout wall case",
-    "vi": "Hộp treo tường lockout tagout"
-   },
-   "dim": {
-    "en": "Model 4400-L",
-    "vi": "Mẫu 4400-L"
-   },
-   "ed": {
-    "en": "Single",
-    "vi": "Chiếc lẻ"
-   },
-   "qty": 1,
-   "price_vnd": 14520000,
-   "price_basis": "Odoo sales price",
-   "price_estimate": false
-  },
-  {
    "id": "V-LSP-B",
    "source": "pdf",
    "concept_id": "kit-station-lockout",

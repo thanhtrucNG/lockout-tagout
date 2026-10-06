@@ -23,6 +23,7 @@ import { createHero } from './components/hero.js';
 import { createSignConstructionSection } from './components/sign-construction.js';
 import { language, t } from './lib/locale.js';
 import { createProductConfigurator } from './components/product-configurator.js';
+import { createProductSearch } from './components/product-search.js';
 import { createOrderSummary } from './components/order-summary.js';
 import { element } from './lib/dom.js';
 
@@ -88,7 +89,7 @@ async function start() {
   document.querySelector('#site-header').replaceWith(createHeader());
   const workflow = element('div', 'shopping-layout container');
   const shopping = element('div', 'shopping-main');
-  shopping.append(createProductConfigurator(families, taxonomy, catalogue, mapping, cart, announce, checkout));
+  shopping.append(createProductSearch(catalogue, cart, announce), createProductConfigurator(families, taxonomy, catalogue, mapping, cart, announce, checkout));
   const summary = createOrderSummary({ catalogue, cart, announce, checkout });
   workflow.append(shopping, summary.element);
   document.querySelector('#main').replaceChildren(createHero(products), createSignConstructionSection(), workflow);

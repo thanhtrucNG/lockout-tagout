@@ -1259,10 +1259,6 @@
   "source": "odoo",
   "iref": "GS-LTS 10C"
  },
- "HM-4400-L": {
-  "source": "odoo",
-  "iref": "4400‐L"
- },
  "V-LSP-B": {
   "source": "pdf",
   "iref": "V-LSP-B"
